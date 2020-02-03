@@ -11,6 +11,8 @@ import {
 } from "@angular/material/list";
 import { SelectionModel } from "@angular/cdk/collections";
 import { ScrollDispatcher } from "@angular/cdk/scrolling";
+import { MatBottomSheet } from '@angular/material/bottom-sheet';
+import { BottomSheetInsertMetaDataComponent } from '@my-app/shared-ui';
 
 @Component({
   selector: "lib-home",
@@ -31,7 +33,7 @@ export class HomeComponent implements OnInit {
   dataArray: any[] = Items;
   constructor(
     private authentication: AuthenticationService,
-    private scrollDispatcher: ScrollDispatcher
+    private _bottomSheet: MatBottomSheet
   ) {}
 
   ngOnInit() {
@@ -78,6 +80,10 @@ export class HomeComponent implements OnInit {
         return hero.applicationId;
       });
     });
+  }
+
+  openBottomSheet(): void {
+    this._bottomSheet.open(BottomSheetInsertMetaDataComponent);
   }
 
   logout() {

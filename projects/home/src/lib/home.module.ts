@@ -11,11 +11,14 @@ import { MatCardModule } from '@angular/material/card';
 import { MatIconModule } from '@angular/material/icon';
 import { MatSidenavModule } from '@angular/material/sidenav';
 import { MatInputModule } from '@angular/material/input';
+import { MatBottomSheetModule } from '@angular/material/bottom-sheet';
 import { PerfectScrollbarModule } from 'ngx-perfect-scrollbar';
 import { PERFECT_SCROLLBAR_CONFIG } from 'ngx-perfect-scrollbar';
 import { PerfectScrollbarConfigInterface } from 'ngx-perfect-scrollbar';
-import { ApplicationJobDetaisComponent } from './application-job-detais/application-job-detais.component';
+
 import { CdkTableModule } from '@angular/cdk/table';
+import { ApplicationJobDetaisComponent } from './application-job-detais/application-job-detais.component';
+import { BottomSheetInsertMetaDataComponent } from '@my-app/shared-ui';
 // import { MatRadioModule } from '@angular/material';
 const DEFAULT_PERFECT_SCROLLBAR_CONFIG: PerfectScrollbarConfigInterface = {
   suppressScrollX: true
@@ -40,6 +43,7 @@ const routes: Routes = [
     PerfectScrollbarModule,
     MatListModule,
     MatIconModule,
+    MatBottomSheetModule,
     CdkTableModule,
     MatCardModule,
     MatButtonModule,
@@ -51,6 +55,7 @@ const routes: Routes = [
       provide: PERFECT_SCROLLBAR_CONFIG,
       useValue: DEFAULT_PERFECT_SCROLLBAR_CONFIG
     }
-  ]
+  ],
+  entryComponents: [BottomSheetInsertMetaDataComponent]
 })
 export class HomeModule {}

@@ -25,6 +25,12 @@
   right: 35px !important;
 }
 
+.btn-float-1 {
+  position: fixed !important;
+  bottom: 85px !important;
+  right: 35px !important;
+}
+
 .mat-input {
   position: absolute;
   background: #3aa2df;

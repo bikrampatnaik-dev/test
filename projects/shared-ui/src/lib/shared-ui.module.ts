@@ -1,13 +1,17 @@
 import { NgModule } from '@angular/core';
 import { SharedUiComponent } from './shared-ui.component';
-import { JobDetailsComponent } from './components/job-details/job-details.component';
-
+import { BottomSheetInsertMetaDataComponent } from './components/bottom-sheet-insert-meta-data/bottom-sheet-insert-meta-data.component';
+import { MatListModule } from '@angular/material/list';
+import { MatFileUploadModule } from 'mat-file-upload';
 
 
 @NgModule({
-  declarations: [SharedUiComponent],
+  declarations: [SharedUiComponent, BottomSheetInsertMetaDataComponent],
   imports: [
+    MatListModule,
+    MatFileUploadModule
   ],
-  exports: [SharedUiComponent]
+  exports: [SharedUiComponent, BottomSheetInsertMetaDataComponent],
+  entryComponents: [BottomSheetInsertMetaDataComponent]
 })
 export class SharedUiModule { }
