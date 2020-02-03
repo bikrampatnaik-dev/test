@@ -2,10 +2,14 @@
 <mat-sidenav-container class="example-container">
   <mat-sidenav #sidenav mode="side" [(opened)]="opened" (opened)="events.push('open!')"
     (closed)="events.push('close!')">
+
+
+    <div class="mat-input col-md-12">
+      <input class="col-md-12" matInput placeholder="Search By Application ID" (keyup)="onKey($event.target.value)">
+    </div>
     <cdk-virtual-scroll-viewport itemSize="50" class="example-viewport" minBufferPx="1200" maxBufferPx="1200">
       <mat-selection-list #shoes>
-        <mat-list-option *cdkVirtualFor=" let item of items; trackBy: trackByFn; templateCacheSize: 0"
-          [value]="item.applicationId">
+        <mat-list-option *cdkVirtualFor=" let item of dataArray; trackBy: trackByFn;" [value]="item.applicationId">
           <!-- <mat-icon >home</mat-icon> -->
           <h3 matLine> Application ID: {{item.applicationId}} </h3>
           <p matLine>
@@ -18,6 +22,8 @@
         </mat-list-option>
       </mat-selection-list>
     </cdk-virtual-scroll-viewport>
+
+
   </mat-sidenav>
 
   <mat-sidenav-content>

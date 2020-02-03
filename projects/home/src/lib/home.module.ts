@@ -10,6 +10,7 @@ import { MatListModule } from '@angular/material/list';
 import { MatCardModule } from '@angular/material/card';
 import { MatIconModule } from '@angular/material/icon';
 import { MatSidenavModule } from '@angular/material/sidenav';
+import { MatInputModule } from '@angular/material/input';
 import { PerfectScrollbarModule } from 'ngx-perfect-scrollbar';
 import { PERFECT_SCROLLBAR_CONFIG } from 'ngx-perfect-scrollbar';
 import { PerfectScrollbarConfigInterface } from 'ngx-perfect-scrollbar';
@@ -33,7 +34,7 @@ const routes: Routes = [
   declarations: [HomeComponent, ApplicationJobDetaisComponent],
   imports: [
     CommonModule,
-    // NoopAnimationsModule,
+    MatInputModule,
     MatSidenavModule,
     ScrollingModule,
     PerfectScrollbarModule,

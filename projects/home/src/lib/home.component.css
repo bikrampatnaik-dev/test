@@ -1,7 +1,8 @@
 .example-viewport {
-    height: 100vh;
+    height: 93vh;
     width: 30vw;
     float: left;
+    top: 6.5vh;
   }
   
   .example-item {
@@ -22,4 +23,12 @@
   position: fixed !important;
   bottom: 15px !important;
   right: 35px !important;
+}
+
+.mat-input {
+  position: absolute;
+  background: #3aa2df;
+  z-index: 1;
+  padding: 10px;
+  top: 0;
 }
