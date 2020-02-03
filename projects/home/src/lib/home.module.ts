@@ -2,7 +2,7 @@ import { NgModule } from '@angular/core';
 import { HomeComponent } from './home.component';
 import { Routes, RouterModule } from '@angular/router';
 import { AuthGuard } from '@my-app/core';
-import { BrowserAnimationsModule, NoopAnimationsModule } from '@angular/platform-browser/animations';
+import { MatButtonModule } from '@angular/material/button';
 // ag-grid
 import { ScrollingModule } from '@angular/cdk/scrolling';
 import { CommonModule } from '@angular/common';
@@ -24,8 +24,8 @@ const routes: Routes = [
   {
     path: '',
     component: HomeComponent,
-    data: { preload: true }
-    // canActivate: [AuthGuard]
+    data: { preload: true },
+    canActivate: [AuthGuard]
   }
 ];
 
@@ -41,6 +41,7 @@ const routes: Routes = [
     MatIconModule,
     CdkTableModule,
     MatCardModule,
+    MatButtonModule,
     RouterModule.forChild(routes)
   ],
   exports: [HomeComponent],

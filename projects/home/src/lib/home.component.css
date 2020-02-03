@@ -17,3 +17,9 @@
   .mat-drawer-content {
     height: 100vh !important;
   }
+
+.btn-float {
+  position: fixed !important;
+  bottom: 15px !important;
+  right: 35px !important;
+}
