@@ -2,7 +2,7 @@ import { NgModule } from "@angular/core";
 import { LoginComponent } from "./login.component";
 import { RouterModule, Routes } from "@angular/router";
 import { FormsModule, ReactiveFormsModule } from '@angular/forms';
-import { LoginGuard } from '@my-app/core';
+import { LoginGuard, CoreModule } from '@my-app/core';
 
 const routes: Routes = [
  {
@@ -17,6 +17,7 @@ const routes: Routes = [
   declarations: [LoginComponent],
   imports: [
     FormsModule,
+    CoreModule,
     ReactiveFormsModule,
     RouterModule.forChild(routes)
   ],

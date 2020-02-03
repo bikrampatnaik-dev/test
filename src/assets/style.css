@@ -1,6 +1,9 @@
 @import '~@angular/material/prebuilt-themes/deeppurple-amber.css';
-/* @import '~perfect-scrollbar/css/perfect-scrollbar.css';
+ /* @import '~perfect-scrollbar/css/perfect-scrollbar.css'; */
 body {
-    font-family: Roboto, Arial, sans-serif;
-    margin: 0;
-} */
+    overflow-y: hidden;
+} 
+.detail-header {
+    position: relative;
+    bottom: 15vh;
+}

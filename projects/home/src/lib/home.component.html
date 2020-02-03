@@ -1,16 +1,25 @@
 <!-- <perfect-scrollbar style="max-width: 600px; max-height: 400px;" > -->
+<mat-toolbar color="primary" class="example-toolbar app-toolbar">
+  <button mat-icon-button (click)="sidenav.toggle()">
+    <mat-icon>=</mat-icon>
+  </button>
+  <h1 class="example-app-name ml-2">My Portal App</h1>
+</mat-toolbar>
 <mat-sidenav-container class="example-container">
+
   <mat-sidenav #sidenav mode="side" [(opened)]="opened" (opened)="events.push('open!')"
     (closed)="events.push('close!')">
-
+    <div class=" col-md-12">
+      <input class="col-md-12" matInput placeholder="Search By Application ID" (keyup)="onKey($event.target.value)">
+    </div>
 
     <div class="mat-input col-md-12">
       <input class="col-md-12" matInput placeholder="Search By Application ID" (keyup)="onKey($event.target.value)">
     </div>
     <cdk-virtual-scroll-viewport itemSize="50" class="example-viewport" minBufferPx="1200" maxBufferPx="1200">
-      <mat-selection-list #shoes>
+      <mat-selection-list #virtualData>
         <mat-list-option *cdkVirtualFor=" let item of dataArray; trackBy: trackByFn;" [value]="item.applicationId">
-          <!-- <mat-icon >home</mat-icon> -->
+
           <h3 matLine> Application ID: {{item.applicationId}} </h3>
           <p matLine>
             <span> {{item.applicationName}} </span>
@@ -27,7 +36,9 @@
   </mat-sidenav>
 
   <mat-sidenav-content>
+    <div class="content-header"> </div>
     <lib-application-job-detais class="" [appDetails]='itemsDetailOnClick'> </lib-application-job-detais>
+
     <button mat-fab color="primary" mat-raised-button class="btn-float" (click)='logout()'>logout</button>
     <button mat-fab color="primary" mat-raised-button class="btn-float-1" (click)='openBottomSheet()'>open</button>
   </mat-sidenav-content>

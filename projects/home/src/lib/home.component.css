@@ -1,8 +1,8 @@
 .example-viewport {
-    height: 93vh;
+    height: 85vh;
     width: 30vw;
     float: left;
-    top: 6.5vh;
+    top: 2.5vh;
   }
   
   .example-item {
@@ -33,8 +33,21 @@
 
 .mat-input {
   position: absolute;
-  background: #3aa2df;
+  background: #673ab7;
   z-index: 1;
   padding: 10px;
   top: 0;
+}
+
+.app-toolbar {
+  position: sticky;
+  position: -webkit-sticky; /* For macOS/iOS Safari */
+  top: 0; /* Sets the sticky toolbar to be on top */
+  z-index: 1000; /* Ensure that your app's content doesn't overlap the toolbar */
+}
+
+.content-header {
+  position: relative;
+  height: 22vh;
+  background: #673ab7;
 }

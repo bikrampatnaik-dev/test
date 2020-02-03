@@ -1,18 +1,16 @@
-import { Component, OnInit, Input } from '@angular/core';
+import { Component, OnInit, Input } from "@angular/core";
 
 @Component({
-  selector: 'lib-application-job-detais',
-  templateUrl: './application-job-detais.component.html',
-  styleUrls: ['./application-job-detais.component.sass']
+  selector: "lib-application-job-detais",
+  templateUrl: "./application-job-detais.component.html",
+  styleUrls: ["./application-job-detais.component.sass"]
 })
 export class ApplicationJobDetaisComponent implements OnInit {
-  public data;
+  public data = { appDetails: [] };
   @Input() set appDetails(val) {
-    this.data = val;
+    if (val) Object.assign(this.data, ...val.value);
   }
-  constructor() { }
+  constructor() {}
 
-  ngOnInit() {
-  }
-
+  ngOnInit() {}
 }

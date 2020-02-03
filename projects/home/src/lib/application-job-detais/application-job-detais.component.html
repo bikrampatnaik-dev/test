@@ -1,6 +1,5 @@
-<div class="container-fluid">
+<div class="container-fluid detail-header">
     <div class="row m-2">
-
         <ng-container *ngFor="let item of data?.appDetails">
             <mat-card class="example-card col-md-6 mb-3 ">
                 <mat-card-header>
@@ -19,6 +18,7 @@
                     <button
                         [ngStyle]="{'background-color':item.selectedStatus === 'Not Started' ? 'gray' : item.selectedStatus === 'Started' ? 'blue' : item.selectedStatus === 'Completed' ? 'green' : 'red' }"
                         mat-button>STATUS: {{item.selectedStatus}}</button>
+                    <mat-slide-toggle class="float-right" *ngIf="data.appDetails.length > 0">Edit me!</mat-slide-toggle>
                 </mat-card-actions>
             </mat-card>
         </ng-container>

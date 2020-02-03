@@ -100,7 +100,7 @@ export const Items = [
     applicationName: '',
     applicationDescription: '',
     totalJobsRun: '',
-    appDetails: [
+   appDetails: [
       {
         JobId: '',
         JobName: '',
@@ -121,7 +121,7 @@ export const Items = [
         ActualStartTime: '',
         ActualEndTime: '',
         Status: ['Not Started', 'Started', 'Completed', 'Failed'],
-        selectedStatus: 'Started'
+        selectedStatus: 'Not Started'
       },
       {
         JobId: '',
@@ -132,7 +132,7 @@ export const Items = [
         ActualStartTime: '',
         ActualEndTime: '',
         Status: ['Not Started', 'Started', 'Completed', 'Failed'],
-        selectedStatus: 'Started'
+        selectedStatus: 'Completed'
       },
       {
         JobId: '',
@@ -143,7 +143,7 @@ export const Items = [
         ActualStartTime: '',
         ActualEndTime: '',
         Status: ['Not Started', 'Started', 'Completed', 'Failed'],
-        selectedStatus: 'Started'
+        selectedStatus: 'Failed'
       },
       {
         JobId: '',
@@ -196,7 +196,7 @@ export const Items = [
     applicationName: '',
     applicationDescription: '',
     totalJobsRun: '',
-    appDetails: [
+   appDetails: [
       {
         JobId: '',
         JobName: '',
@@ -217,7 +217,7 @@ export const Items = [
         ActualStartTime: '',
         ActualEndTime: '',
         Status: ['Not Started', 'Started', 'Completed', 'Failed'],
-        selectedStatus: 'Started'
+        selectedStatus: 'Not Started'
       },
       {
         JobId: '',
@@ -228,7 +228,7 @@ export const Items = [
         ActualStartTime: '',
         ActualEndTime: '',
         Status: ['Not Started', 'Started', 'Completed', 'Failed'],
-        selectedStatus: 'Started'
+        selectedStatus: 'Completed'
       },
       {
         JobId: '',
@@ -239,7 +239,7 @@ export const Items = [
         ActualStartTime: '',
         ActualEndTime: '',
         Status: ['Not Started', 'Started', 'Completed', 'Failed'],
-        selectedStatus: 'Started'
+        selectedStatus: 'Failed'
       },
       {
         JobId: '',
@@ -292,7 +292,7 @@ export const Items = [
     applicationName: '',
     applicationDescription: '',
     totalJobsRun: '',
-    appDetails: [
+   appDetails: [
       {
         JobId: '',
         JobName: '',
@@ -313,7 +313,7 @@ export const Items = [
         ActualStartTime: '',
         ActualEndTime: '',
         Status: ['Not Started', 'Started', 'Completed', 'Failed'],
-        selectedStatus: 'Started'
+        selectedStatus: 'Not Started'
       },
       {
         JobId: '',
@@ -324,7 +324,7 @@ export const Items = [
         ActualStartTime: '',
         ActualEndTime: '',
         Status: ['Not Started', 'Started', 'Completed', 'Failed'],
-        selectedStatus: 'Started'
+        selectedStatus: 'Completed'
       },
       {
         JobId: '',
@@ -335,7 +335,7 @@ export const Items = [
         ActualStartTime: '',
         ActualEndTime: '',
         Status: ['Not Started', 'Started', 'Completed', 'Failed'],
-        selectedStatus: 'Started'
+        selectedStatus: 'Failed'
       },
       {
         JobId: '',
@@ -388,7 +388,7 @@ export const Items = [
     applicationName: '',
     applicationDescription: '',
     totalJobsRun: '',
-    appDetails: [
+   appDetails: [
       {
         JobId: '',
         JobName: '',
@@ -409,7 +409,7 @@ export const Items = [
         ActualStartTime: '',
         ActualEndTime: '',
         Status: ['Not Started', 'Started', 'Completed', 'Failed'],
-        selectedStatus: 'Started'
+        selectedStatus: 'Not Started'
       },
       {
         JobId: '',
@@ -420,7 +420,7 @@ export const Items = [
         ActualStartTime: '',
         ActualEndTime: '',
         Status: ['Not Started', 'Started', 'Completed', 'Failed'],
-        selectedStatus: 'Started'
+        selectedStatus: 'Completed'
       },
       {
         JobId: '',
@@ -431,7 +431,7 @@ export const Items = [
         ActualStartTime: '',
         ActualEndTime: '',
         Status: ['Not Started', 'Started', 'Completed', 'Failed'],
-        selectedStatus: 'Started'
+        selectedStatus: 'Failed'
       },
       {
         JobId: '',
@@ -484,7 +484,7 @@ export const Items = [
     applicationName: '',
     applicationDescription: '',
     totalJobsRun: '',
-    appDetails: [
+   appDetails: [
       {
         JobId: '',
         JobName: '',
@@ -505,7 +505,7 @@ export const Items = [
         ActualStartTime: '',
         ActualEndTime: '',
         Status: ['Not Started', 'Started', 'Completed', 'Failed'],
-        selectedStatus: 'Started'
+        selectedStatus: 'Not Started'
       },
       {
         JobId: '',
@@ -516,7 +516,7 @@ export const Items = [
         ActualStartTime: '',
         ActualEndTime: '',
         Status: ['Not Started', 'Started', 'Completed', 'Failed'],
-        selectedStatus: 'Started'
+        selectedStatus: 'Completed'
       },
       {
         JobId: '',
@@ -527,7 +527,7 @@ export const Items = [
         ActualStartTime: '',
         ActualEndTime: '',
         Status: ['Not Started', 'Started', 'Completed', 'Failed'],
-        selectedStatus: 'Started'
+        selectedStatus: 'Failed'
       },
       {
         JobId: '',
@@ -580,7 +580,7 @@ export const Items = [
     applicationName: '',
     applicationDescription: '',
     totalJobsRun: '',
-    appDetails: [
+   appDetails: [
       {
         JobId: '',
         JobName: '',
@@ -601,7 +601,7 @@ export const Items = [
         ActualStartTime: '',
         ActualEndTime: '',
         Status: ['Not Started', 'Started', 'Completed', 'Failed'],
-        selectedStatus: 'Started'
+        selectedStatus: 'Not Started'
       },
       {
         JobId: '',
@@ -612,7 +612,7 @@ export const Items = [
         ActualStartTime: '',
         ActualEndTime: '',
         Status: ['Not Started', 'Started', 'Completed', 'Failed'],
-        selectedStatus: 'Started'
+        selectedStatus: 'Completed'
       },
       {
         JobId: '',
@@ -623,7 +623,7 @@ export const Items = [
         ActualStartTime: '',
         ActualEndTime: '',
         Status: ['Not Started', 'Started', 'Completed', 'Failed'],
-        selectedStatus: 'Started'
+        selectedStatus: 'Failed'
       },
       {
         JobId: '',
@@ -676,7 +676,7 @@ export const Items = [
     applicationName: '',
     applicationDescription: '',
     totalJobsRun: '',
-    appDetails: [
+   appDetails: [
       {
         JobId: '',
         JobName: '',
@@ -697,7 +697,7 @@ export const Items = [
         ActualStartTime: '',
         ActualEndTime: '',
         Status: ['Not Started', 'Started', 'Completed', 'Failed'],
-        selectedStatus: 'Started'
+        selectedStatus: 'Not Started'
       },
       {
         JobId: '',
@@ -708,7 +708,7 @@ export const Items = [
         ActualStartTime: '',
         ActualEndTime: '',
         Status: ['Not Started', 'Started', 'Completed', 'Failed'],
-        selectedStatus: 'Started'
+        selectedStatus: 'Completed'
       },
       {
         JobId: '',
@@ -719,7 +719,7 @@ export const Items = [
         ActualStartTime: '',
         ActualEndTime: '',
         Status: ['Not Started', 'Started', 'Completed', 'Failed'],
-        selectedStatus: 'Started'
+        selectedStatus: 'Failed'
       },
       {
         JobId: '',
@@ -772,7 +772,7 @@ export const Items = [
     applicationName: '',
     applicationDescription: '',
     totalJobsRun: '',
-    appDetails: [
+   appDetails: [
       {
         JobId: '',
         JobName: '',
@@ -793,7 +793,7 @@ export const Items = [
         ActualStartTime: '',
         ActualEndTime: '',
         Status: ['Not Started', 'Started', 'Completed', 'Failed'],
-        selectedStatus: 'Started'
+        selectedStatus: 'Not Started'
       },
       {
         JobId: '',
@@ -804,7 +804,7 @@ export const Items = [
         ActualStartTime: '',
         ActualEndTime: '',
         Status: ['Not Started', 'Started', 'Completed', 'Failed'],
-        selectedStatus: 'Started'
+        selectedStatus: 'Completed'
       },
       {
         JobId: '',
@@ -815,7 +815,7 @@ export const Items = [
         ActualStartTime: '',
         ActualEndTime: '',
         Status: ['Not Started', 'Started', 'Completed', 'Failed'],
-        selectedStatus: 'Started'
+        selectedStatus: 'Failed'
       },
       {
         JobId: '',
@@ -868,7 +868,7 @@ export const Items = [
     applicationName: '',
     applicationDescription: '',
     totalJobsRun: '',
-    appDetails: [
+   appDetails: [
       {
         JobId: '',
         JobName: '',
@@ -889,7 +889,7 @@ export const Items = [
         ActualStartTime: '',
         ActualEndTime: '',
         Status: ['Not Started', 'Started', 'Completed', 'Failed'],
-        selectedStatus: 'Started'
+        selectedStatus: 'Not Started'
       },
       {
         JobId: '',
@@ -900,7 +900,7 @@ export const Items = [
         ActualStartTime: '',
         ActualEndTime: '',
         Status: ['Not Started', 'Started', 'Completed', 'Failed'],
-        selectedStatus: 'Started'
+        selectedStatus: 'Completed'
       },
       {
         JobId: '',
@@ -911,7 +911,7 @@ export const Items = [
         ActualStartTime: '',
         ActualEndTime: '',
         Status: ['Not Started', 'Started', 'Completed', 'Failed'],
-        selectedStatus: 'Started'
+        selectedStatus: 'Failed'
       },
       {
         JobId: '',
@@ -964,7 +964,7 @@ export const Items = [
     applicationName: '',
     applicationDescription: '',
     totalJobsRun: '',
-    appDetails: [
+   appDetails: [
       {
         JobId: '',
         JobName: '',
@@ -985,7 +985,7 @@ export const Items = [
         ActualStartTime: '',
         ActualEndTime: '',
         Status: ['Not Started', 'Started', 'Completed', 'Failed'],
-        selectedStatus: 'Started'
+        selectedStatus: 'Not Started'
       },
       {
         JobId: '',
@@ -996,7 +996,7 @@ export const Items = [
         ActualStartTime: '',
         ActualEndTime: '',
         Status: ['Not Started', 'Started', 'Completed', 'Failed'],
-        selectedStatus: 'Started'
+        selectedStatus: 'Completed'
       },
       {
         JobId: '',
@@ -1007,7 +1007,7 @@ export const Items = [
         ActualStartTime: '',
         ActualEndTime: '',
         Status: ['Not Started', 'Started', 'Completed', 'Failed'],
-        selectedStatus: 'Started'
+        selectedStatus: 'Failed'
       },
       {
         JobId: '',
@@ -1060,7 +1060,7 @@ export const Items = [
     applicationName: '',
     applicationDescription: '',
     totalJobsRun: '',
-    appDetails: [
+   appDetails: [
       {
         JobId: '',
         JobName: '',
@@ -1081,7 +1081,7 @@ export const Items = [
         ActualStartTime: '',
         ActualEndTime: '',
         Status: ['Not Started', 'Started', 'Completed', 'Failed'],
-        selectedStatus: 'Started'
+        selectedStatus: 'Not Started'
       },
       {
         JobId: '',
@@ -1092,7 +1092,7 @@ export const Items = [
         ActualStartTime: '',
         ActualEndTime: '',
         Status: ['Not Started', 'Started', 'Completed', 'Failed'],
-        selectedStatus: 'Started'
+        selectedStatus: 'Completed'
       },
       {
         JobId: '',
@@ -1103,7 +1103,7 @@ export const Items = [
         ActualStartTime: '',
         ActualEndTime: '',
         Status: ['Not Started', 'Started', 'Completed', 'Failed'],
-        selectedStatus: 'Started'
+        selectedStatus: 'Failed'
       },
       {
         JobId: '',
@@ -1156,7 +1156,7 @@ export const Items = [
     applicationName: '',
     applicationDescription: '',
     totalJobsRun: '',
-    appDetails: [
+   appDetails: [
       {
         JobId: '',
         JobName: '',
@@ -1177,7 +1177,7 @@ export const Items = [
         ActualStartTime: '',
         ActualEndTime: '',
         Status: ['Not Started', 'Started', 'Completed', 'Failed'],
-        selectedStatus: 'Started'
+        selectedStatus: 'Not Started'
       },
       {
         JobId: '',
@@ -1188,7 +1188,7 @@ export const Items = [
         ActualStartTime: '',
         ActualEndTime: '',
         Status: ['Not Started', 'Started', 'Completed', 'Failed'],
-        selectedStatus: 'Started'
+        selectedStatus: 'Completed'
       },
       {
         JobId: '',
@@ -1199,7 +1199,7 @@ export const Items = [
         ActualStartTime: '',
         ActualEndTime: '',
         Status: ['Not Started', 'Started', 'Completed', 'Failed'],
-        selectedStatus: 'Started'
+        selectedStatus: 'Failed'
       },
       {
         JobId: '',
@@ -1252,7 +1252,7 @@ export const Items = [
     applicationName: '',
     applicationDescription: '',
     totalJobsRun: '',
-    appDetails: [
+   appDetails: [
       {
         JobId: '',
         JobName: '',
@@ -1273,7 +1273,7 @@ export const Items = [
         ActualStartTime: '',
         ActualEndTime: '',
         Status: ['Not Started', 'Started', 'Completed', 'Failed'],
-        selectedStatus: 'Started'
+        selectedStatus: 'Not Started'
       },
       {
         JobId: '',
@@ -1284,7 +1284,7 @@ export const Items = [
         ActualStartTime: '',
         ActualEndTime: '',
         Status: ['Not Started', 'Started', 'Completed', 'Failed'],
-        selectedStatus: 'Started'
+        selectedStatus: 'Completed'
       },
       {
         JobId: '',
@@ -1295,7 +1295,7 @@ export const Items = [
         ActualStartTime: '',
         ActualEndTime: '',
         Status: ['Not Started', 'Started', 'Completed', 'Failed'],
-        selectedStatus: 'Started'
+        selectedStatus: 'Failed'
       },
       {
         JobId: '',
@@ -1348,7 +1348,7 @@ export const Items = [
     applicationName: '',
     applicationDescription: '',
     totalJobsRun: '',
-    appDetails: [
+   appDetails: [
       {
         JobId: '',
         JobName: '',
@@ -1369,7 +1369,7 @@ export const Items = [
         ActualStartTime: '',
         ActualEndTime: '',
         Status: ['Not Started', 'Started', 'Completed', 'Failed'],
-        selectedStatus: 'Started'
+        selectedStatus: 'Not Started'
       },
       {
         JobId: '',
@@ -1380,7 +1380,7 @@ export const Items = [
         ActualStartTime: '',
         ActualEndTime: '',
         Status: ['Not Started', 'Started', 'Completed', 'Failed'],
-        selectedStatus: 'Started'
+        selectedStatus: 'Completed'
       },
       {
         JobId: '',
@@ -1391,7 +1391,7 @@ export const Items = [
         ActualStartTime: '',
         ActualEndTime: '',
         Status: ['Not Started', 'Started', 'Completed', 'Failed'],
-        selectedStatus: 'Started'
+        selectedStatus: 'Failed'
       },
       {
         JobId: '',
@@ -1444,7 +1444,7 @@ export const Items = [
     applicationName: '',
     applicationDescription: '',
     totalJobsRun: '',
-    appDetails: [
+   appDetails: [
       {
         JobId: '',
         JobName: '',
@@ -1465,7 +1465,7 @@ export const Items = [
         ActualStartTime: '',
         ActualEndTime: '',
         Status: ['Not Started', 'Started', 'Completed', 'Failed'],
-        selectedStatus: 'Started'
+        selectedStatus: 'Not Started'
       },
       {
         JobId: '',
@@ -1476,7 +1476,7 @@ export const Items = [
         ActualStartTime: '',
         ActualEndTime: '',
         Status: ['Not Started', 'Started', 'Completed', 'Failed'],
-        selectedStatus: 'Started'
+        selectedStatus: 'Completed'
       },
       {
         JobId: '',
@@ -1487,7 +1487,7 @@ export const Items = [
         ActualStartTime: '',
         ActualEndTime: '',
         Status: ['Not Started', 'Started', 'Completed', 'Failed'],
-        selectedStatus: 'Started'
+        selectedStatus: 'Failed'
       },
       {
         JobId: '',
@@ -1540,7 +1540,7 @@ export const Items = [
     applicationName: '',
     applicationDescription: '',
     totalJobsRun: '',
-    appDetails: [
+   appDetails: [
       {
         JobId: '',
         JobName: '',
@@ -1561,7 +1561,7 @@ export const Items = [
         ActualStartTime: '',
         ActualEndTime: '',
         Status: ['Not Started', 'Started', 'Completed', 'Failed'],
-        selectedStatus: 'Started'
+        selectedStatus: 'Not Started'
       },
       {
         JobId: '',
@@ -1572,7 +1572,7 @@ export const Items = [
         ActualStartTime: '',
         ActualEndTime: '',
         Status: ['Not Started', 'Started', 'Completed', 'Failed'],
-        selectedStatus: 'Started'
+        selectedStatus: 'Completed'
       },
       {
         JobId: '',
@@ -1583,7 +1583,7 @@ export const Items = [
         ActualStartTime: '',
         ActualEndTime: '',
         Status: ['Not Started', 'Started', 'Completed', 'Failed'],
-        selectedStatus: 'Started'
+        selectedStatus: 'Failed'
       },
       {
         JobId: '',
@@ -1636,7 +1636,7 @@ export const Items = [
     applicationName: '',
     applicationDescription: '',
     totalJobsRun: '',
-    appDetails: [
+   appDetails: [
       {
         JobId: '',
         JobName: '',
@@ -1657,7 +1657,7 @@ export const Items = [
         ActualStartTime: '',
         ActualEndTime: '',
         Status: ['Not Started', 'Started', 'Completed', 'Failed'],
-        selectedStatus: 'Started'
+        selectedStatus: 'Not Started'
       },
       {
         JobId: '',
@@ -1668,7 +1668,7 @@ export const Items = [
         ActualStartTime: '',
         ActualEndTime: '',
         Status: ['Not Started', 'Started', 'Completed', 'Failed'],
-        selectedStatus: 'Started'
+        selectedStatus: 'Completed'
       },
       {
         JobId: '',
@@ -1679,7 +1679,7 @@ export const Items = [
         ActualStartTime: '',
         ActualEndTime: '',
         Status: ['Not Started', 'Started', 'Completed', 'Failed'],
-        selectedStatus: 'Started'
+        selectedStatus: 'Failed'
       },
       {
         JobId: '',
@@ -1732,7 +1732,7 @@ export const Items = [
     applicationName: '',
     applicationDescription: '',
     totalJobsRun: '',
-    appDetails: [
+   appDetails: [
       {
         JobId: '',
         JobName: '',
@@ -1753,7 +1753,7 @@ export const Items = [
         ActualStartTime: '',
         ActualEndTime: '',
         Status: ['Not Started', 'Started', 'Completed', 'Failed'],
-        selectedStatus: 'Started'
+        selectedStatus: 'Not Started'
       },
       {
         JobId: '',
@@ -1764,7 +1764,7 @@ export const Items = [
         ActualStartTime: '',
         ActualEndTime: '',
         Status: ['Not Started', 'Started', 'Completed', 'Failed'],
-        selectedStatus: 'Started'
+        selectedStatus: 'Completed'
       },
       {
         JobId: '',
@@ -1775,7 +1775,7 @@ export const Items = [
         ActualStartTime: '',
         ActualEndTime: '',
         Status: ['Not Started', 'Started', 'Completed', 'Failed'],
-        selectedStatus: 'Started'
+        selectedStatus: 'Failed'
       },
       {
         JobId: '',
@@ -1828,7 +1828,7 @@ export const Items = [
     applicationName: '',
     applicationDescription: '',
     totalJobsRun: '',
-    appDetails: [
+   appDetails: [
       {
         JobId: '',
         JobName: '',
@@ -1849,7 +1849,7 @@ export const Items = [
         ActualStartTime: '',
         ActualEndTime: '',
         Status: ['Not Started', 'Started', 'Completed', 'Failed'],
-        selectedStatus: 'Started'
+        selectedStatus: 'Not Started'
       },
       {
         JobId: '',
@@ -1860,7 +1860,7 @@ export const Items = [
         ActualStartTime: '',
         ActualEndTime: '',
         Status: ['Not Started', 'Started', 'Completed', 'Failed'],
-        selectedStatus: 'Started'
+        selectedStatus: 'Completed'
       },
       {
         JobId: '',
@@ -1871,7 +1871,7 @@ export const Items = [
         ActualStartTime: '',
         ActualEndTime: '',
         Status: ['Not Started', 'Started', 'Completed', 'Failed'],
-        selectedStatus: 'Started'
+        selectedStatus: 'Failed'
       },
       {
         JobId: '',
@@ -1924,7 +1924,7 @@ export const Items = [
     applicationName: '',
     applicationDescription: '',
     totalJobsRun: '',
-    appDetails: [
+   appDetails: [
       {
         JobId: '',
         JobName: '',
@@ -1945,7 +1945,7 @@ export const Items = [
         ActualStartTime: '',
         ActualEndTime: '',
         Status: ['Not Started', 'Started', 'Completed', 'Failed'],
-        selectedStatus: 'Started'
+        selectedStatus: 'Not Started'
       },
       {
         JobId: '',
@@ -1956,7 +1956,7 @@ export const Items = [
         ActualStartTime: '',
         ActualEndTime: '',
         Status: ['Not Started', 'Started', 'Completed', 'Failed'],
-        selectedStatus: 'Started'
+        selectedStatus: 'Completed'
       },
       {
         JobId: '',
@@ -1967,7 +1967,7 @@ export const Items = [
         ActualStartTime: '',
         ActualEndTime: '',
         Status: ['Not Started', 'Started', 'Completed', 'Failed'],
-        selectedStatus: 'Started'
+        selectedStatus: 'Failed'
       },
       {
         JobId: '',
@@ -2020,7 +2020,7 @@ export const Items = [
     applicationName: '',
     applicationDescription: '',
     totalJobsRun: '',
-    appDetails: [
+   appDetails: [
       {
         JobId: '',
         JobName: '',
@@ -2041,7 +2041,7 @@ export const Items = [
         ActualStartTime: '',
         ActualEndTime: '',
         Status: ['Not Started', 'Started', 'Completed', 'Failed'],
-        selectedStatus: 'Started'
+        selectedStatus: 'Not Started'
       },
       {
         JobId: '',
@@ -2052,7 +2052,7 @@ export const Items = [
         ActualStartTime: '',
         ActualEndTime: '',
         Status: ['Not Started', 'Started', 'Completed', 'Failed'],
-        selectedStatus: 'Started'
+        selectedStatus: 'Completed'
       },
       {
         JobId: '',
@@ -2063,7 +2063,7 @@ export const Items = [
         ActualStartTime: '',
         ActualEndTime: '',
         Status: ['Not Started', 'Started', 'Completed', 'Failed'],
-        selectedStatus: 'Started'
+        selectedStatus: 'Failed'
       },
       {
         JobId: '',
@@ -2116,7 +2116,7 @@ export const Items = [
     applicationName: '',
     applicationDescription: '',
     totalJobsRun: '',
-    appDetails: [
+   appDetails: [
       {
         JobId: '',
         JobName: '',
@@ -2137,7 +2137,7 @@ export const Items = [
         ActualStartTime: '',
         ActualEndTime: '',
         Status: ['Not Started', 'Started', 'Completed', 'Failed'],
-        selectedStatus: 'Started'
+        selectedStatus: 'Not Started'
       },
       {
         JobId: '',
@@ -2148,7 +2148,7 @@ export const Items = [
         ActualStartTime: '',
         ActualEndTime: '',
         Status: ['Not Started', 'Started', 'Completed', 'Failed'],
-        selectedStatus: 'Started'
+        selectedStatus: 'Completed'
       },
       {
         JobId: '',
@@ -2159,7 +2159,7 @@ export const Items = [
         ActualStartTime: '',
         ActualEndTime: '',
         Status: ['Not Started', 'Started', 'Completed', 'Failed'],
-        selectedStatus: 'Started'
+        selectedStatus: 'Failed'
       },
       {
         JobId: '',
@@ -2212,7 +2212,7 @@ export const Items = [
     applicationName: '',
     applicationDescription: '',
     totalJobsRun: '',
-    appDetails: [
+   appDetails: [
       {
         JobId: '',
         JobName: '',
@@ -2233,7 +2233,7 @@ export const Items = [
         ActualStartTime: '',
         ActualEndTime: '',
         Status: ['Not Started', 'Started', 'Completed', 'Failed'],
-        selectedStatus: 'Started'
+        selectedStatus: 'Not Started'
       },
       {
         JobId: '',
@@ -2244,7 +2244,7 @@ export const Items = [
         ActualStartTime: '',
         ActualEndTime: '',
         Status: ['Not Started', 'Started', 'Completed', 'Failed'],
-        selectedStatus: 'Started'
+        selectedStatus: 'Completed'
       },
       {
         JobId: '',
@@ -2255,7 +2255,7 @@ export const Items = [
         ActualStartTime: '',
         ActualEndTime: '',
         Status: ['Not Started', 'Started', 'Completed', 'Failed'],
-        selectedStatus: 'Started'
+        selectedStatus: 'Failed'
       },
       {
         JobId: '',
@@ -2308,7 +2308,7 @@ export const Items = [
     applicationName: '',
     applicationDescription: '',
     totalJobsRun: '',
-    appDetails: [
+   appDetails: [
       {
         JobId: '',
         JobName: '',
@@ -2329,7 +2329,7 @@ export const Items = [
         ActualStartTime: '',
         ActualEndTime: '',
         Status: ['Not Started', 'Started', 'Completed', 'Failed'],
-        selectedStatus: 'Started'
+        selectedStatus: 'Not Started'
       },
       {
         JobId: '',
@@ -2340,7 +2340,7 @@ export const Items = [
         ActualStartTime: '',
         ActualEndTime: '',
         Status: ['Not Started', 'Started', 'Completed', 'Failed'],
-        selectedStatus: 'Started'
+        selectedStatus: 'Completed'
       },
       {
         JobId: '',
@@ -2351,7 +2351,7 @@ export const Items = [
         ActualStartTime: '',
         ActualEndTime: '',
         Status: ['Not Started', 'Started', 'Completed', 'Failed'],
-        selectedStatus: 'Started'
+        selectedStatus: 'Failed'
       },
       {
         JobId: '',
@@ -2404,7 +2404,7 @@ export const Items = [
     applicationName: '',
     applicationDescription: '',
     totalJobsRun: '',
-    appDetails: [
+   appDetails: [
       {
         JobId: '',
         JobName: '',
@@ -2425,7 +2425,7 @@ export const Items = [
         ActualStartTime: '',
         ActualEndTime: '',
         Status: ['Not Started', 'Started', 'Completed', 'Failed'],
-        selectedStatus: 'Started'
+        selectedStatus: 'Not Started'
       },
       {
         JobId: '',
@@ -2436,7 +2436,7 @@ export const Items = [
         ActualStartTime: '',
         ActualEndTime: '',
         Status: ['Not Started', 'Started', 'Completed', 'Failed'],
-        selectedStatus: 'Started'
+        selectedStatus: 'Completed'
       },
       {
         JobId: '',
@@ -2447,7 +2447,7 @@ export const Items = [
         ActualStartTime: '',
         ActualEndTime: '',
         Status: ['Not Started', 'Started', 'Completed', 'Failed'],
-        selectedStatus: 'Started'
+        selectedStatus: 'Failed'
       },
       {
         JobId: '',
@@ -2500,7 +2500,7 @@ export const Items = [
     applicationName: '',
     applicationDescription: '',
     totalJobsRun: '',
-    appDetails: [
+   appDetails: [
       {
         JobId: '',
         JobName: '',
@@ -2521,7 +2521,7 @@ export const Items = [
         ActualStartTime: '',
         ActualEndTime: '',
         Status: ['Not Started', 'Started', 'Completed', 'Failed'],
-        selectedStatus: 'Started'
+        selectedStatus: 'Not Started'
       },
       {
         JobId: '',
@@ -2532,7 +2532,7 @@ export const Items = [
         ActualStartTime: '',
         ActualEndTime: '',
         Status: ['Not Started', 'Started', 'Completed', 'Failed'],
-        selectedStatus: 'Started'
+        selectedStatus: 'Completed'
       },
       {
         JobId: '',
@@ -2543,7 +2543,7 @@ export const Items = [
         ActualStartTime: '',
         ActualEndTime: '',
         Status: ['Not Started', 'Started', 'Completed', 'Failed'],
-        selectedStatus: 'Started'
+        selectedStatus: 'Failed'
       },
       {
         JobId: '',
@@ -2596,7 +2596,7 @@ export const Items = [
     applicationName: '',
     applicationDescription: '',
     totalJobsRun: '',
-    appDetails: [
+   appDetails: [
       {
         JobId: '',
         JobName: '',
@@ -2617,7 +2617,7 @@ export const Items = [
         ActualStartTime: '',
         ActualEndTime: '',
         Status: ['Not Started', 'Started', 'Completed', 'Failed'],
-        selectedStatus: 'Started'
+        selectedStatus: 'Not Started'
       },
       {
         JobId: '',
@@ -2628,7 +2628,7 @@ export const Items = [
         ActualStartTime: '',
         ActualEndTime: '',
         Status: ['Not Started', 'Started', 'Completed', 'Failed'],
-        selectedStatus: 'Started'
+        selectedStatus: 'Completed'
       },
       {
         JobId: '',
@@ -2639,7 +2639,7 @@ export const Items = [
         ActualStartTime: '',
         ActualEndTime: '',
         Status: ['Not Started', 'Started', 'Completed', 'Failed'],
-        selectedStatus: 'Started'
+        selectedStatus: 'Failed'
       },
       {
         JobId: '',
@@ -2692,7 +2692,7 @@ export const Items = [
     applicationName: '',
     applicationDescription: '',
     totalJobsRun: '',
-    appDetails: [
+   appDetails: [
       {
         JobId: '',
         JobName: '',
@@ -2713,7 +2713,7 @@ export const Items = [
         ActualStartTime: '',
         ActualEndTime: '',
         Status: ['Not Started', 'Started', 'Completed', 'Failed'],
-        selectedStatus: 'Started'
+        selectedStatus: 'Not Started'
       },
       {
         JobId: '',
@@ -2724,7 +2724,7 @@ export const Items = [
         ActualStartTime: '',
         ActualEndTime: '',
         Status: ['Not Started', 'Started', 'Completed', 'Failed'],
-        selectedStatus: 'Started'
+        selectedStatus: 'Completed'
       },
       {
         JobId: '',
@@ -2735,7 +2735,7 @@ export const Items = [
         ActualStartTime: '',
         ActualEndTime: '',
         Status: ['Not Started', 'Started', 'Completed', 'Failed'],
-        selectedStatus: 'Started'
+        selectedStatus: 'Failed'
       },
       {
         JobId: '',
@@ -2788,7 +2788,7 @@ export const Items = [
     applicationName: '',
     applicationDescription: '',
     totalJobsRun: '',
-    appDetails: [
+   appDetails: [
       {
         JobId: '',
         JobName: '',
@@ -2809,7 +2809,7 @@ export const Items = [
         ActualStartTime: '',
         ActualEndTime: '',
         Status: ['Not Started', 'Started', 'Completed', 'Failed'],
-        selectedStatus: 'Started'
+        selectedStatus: 'Not Started'
       },
       {
         JobId: '',
@@ -2820,7 +2820,7 @@ export const Items = [
         ActualStartTime: '',
         ActualEndTime: '',
         Status: ['Not Started', 'Started', 'Completed', 'Failed'],
-        selectedStatus: 'Started'
+        selectedStatus: 'Completed'
       },
       {
         JobId: '',
@@ -2831,7 +2831,7 @@ export const Items = [
         ActualStartTime: '',
         ActualEndTime: '',
         Status: ['Not Started', 'Started', 'Completed', 'Failed'],
-        selectedStatus: 'Started'
+        selectedStatus: 'Failed'
       },
       {
         JobId: '',
@@ -2884,7 +2884,7 @@ export const Items = [
     applicationName: '',
     applicationDescription: '',
     totalJobsRun: '',
-    appDetails: [
+   appDetails: [
       {
         JobId: '',
         JobName: '',
@@ -2905,7 +2905,7 @@ export const Items = [
         ActualStartTime: '',
         ActualEndTime: '',
         Status: ['Not Started', 'Started', 'Completed', 'Failed'],
-        selectedStatus: 'Started'
+        selectedStatus: 'Not Started'
       },
       {
         JobId: '',
@@ -2916,7 +2916,7 @@ export const Items = [
         ActualStartTime: '',
         ActualEndTime: '',
         Status: ['Not Started', 'Started', 'Completed', 'Failed'],
-        selectedStatus: 'Started'
+        selectedStatus: 'Completed'
       },
       {
         JobId: '',
@@ -2927,7 +2927,7 @@ export const Items = [
         ActualStartTime: '',
         ActualEndTime: '',
         Status: ['Not Started', 'Started', 'Completed', 'Failed'],
-        selectedStatus: 'Started'
+        selectedStatus: 'Failed'
       },
       {
         JobId: '',
@@ -2980,7 +2980,7 @@ export const Items = [
     applicationName: '',
     applicationDescription: '',
     totalJobsRun: '',
-    appDetails: [
+   appDetails: [
       {
         JobId: '',
         JobName: '',
@@ -3001,7 +3001,7 @@ export const Items = [
         ActualStartTime: '',
         ActualEndTime: '',
         Status: ['Not Started', 'Started', 'Completed', 'Failed'],
-        selectedStatus: 'Started'
+        selectedStatus: 'Not Started'
       },
       {
         JobId: '',
@@ -3012,7 +3012,7 @@ export const Items = [
         ActualStartTime: '',
         ActualEndTime: '',
         Status: ['Not Started', 'Started', 'Completed', 'Failed'],
-        selectedStatus: 'Started'
+        selectedStatus: 'Completed'
       },
       {
         JobId: '',
@@ -3023,7 +3023,7 @@ export const Items = [
         ActualStartTime: '',
         ActualEndTime: '',
         Status: ['Not Started', 'Started', 'Completed', 'Failed'],
-        selectedStatus: 'Started'
+        selectedStatus: 'Failed'
       },
       {
         JobId: '',
@@ -3076,7 +3076,7 @@ export const Items = [
     applicationName: '',
     applicationDescription: '',
     totalJobsRun: '',
-    appDetails: [
+   appDetails: [
       {
         JobId: '',
         JobName: '',
@@ -3097,7 +3097,7 @@ export const Items = [
         ActualStartTime: '',
         ActualEndTime: '',
         Status: ['Not Started', 'Started', 'Completed', 'Failed'],
-        selectedStatus: 'Started'
+        selectedStatus: 'Not Started'
       },
       {
         JobId: '',
@@ -3108,7 +3108,7 @@ export const Items = [
         ActualStartTime: '',
         ActualEndTime: '',
         Status: ['Not Started', 'Started', 'Completed', 'Failed'],
-        selectedStatus: 'Started'
+        selectedStatus: 'Completed'
       },
       {
         JobId: '',
@@ -3119,7 +3119,7 @@ export const Items = [
         ActualStartTime: '',
         ActualEndTime: '',
         Status: ['Not Started', 'Started', 'Completed', 'Failed'],
-        selectedStatus: 'Started'
+        selectedStatus: 'Failed'
       },
       {
         JobId: '',
@@ -3172,7 +3172,7 @@ export const Items = [
     applicationName: '',
     applicationDescription: '',
     totalJobsRun: '',
-    appDetails: [
+   appDetails: [
       {
         JobId: '',
         JobName: '',
@@ -3193,7 +3193,7 @@ export const Items = [
         ActualStartTime: '',
         ActualEndTime: '',
         Status: ['Not Started', 'Started', 'Completed', 'Failed'],
-        selectedStatus: 'Started'
+        selectedStatus: 'Not Started'
       },
       {
         JobId: '',
@@ -3204,7 +3204,7 @@ export const Items = [
         ActualStartTime: '',
         ActualEndTime: '',
         Status: ['Not Started', 'Started', 'Completed', 'Failed'],
-        selectedStatus: 'Started'
+        selectedStatus: 'Completed'
       },
       {
         JobId: '',
@@ -3215,7 +3215,7 @@ export const Items = [
         ActualStartTime: '',
         ActualEndTime: '',
         Status: ['Not Started', 'Started', 'Completed', 'Failed'],
-        selectedStatus: 'Started'
+        selectedStatus: 'Failed'
       },
       {
         JobId: '',
@@ -3268,7 +3268,7 @@ export const Items = [
     applicationName: '',
     applicationDescription: '',
     totalJobsRun: '',
-    appDetails: [
+   appDetails: [
       {
         JobId: '',
         JobName: '',
@@ -3289,7 +3289,7 @@ export const Items = [
         ActualStartTime: '',
         ActualEndTime: '',
         Status: ['Not Started', 'Started', 'Completed', 'Failed'],
-        selectedStatus: 'Started'
+        selectedStatus: 'Not Started'
       },
       {
         JobId: '',
@@ -3300,7 +3300,7 @@ export const Items = [
         ActualStartTime: '',
         ActualEndTime: '',
         Status: ['Not Started', 'Started', 'Completed', 'Failed'],
-        selectedStatus: 'Started'
+        selectedStatus: 'Completed'
       },
       {
         JobId: '',
@@ -3311,7 +3311,7 @@ export const Items = [
         ActualStartTime: '',
         ActualEndTime: '',
         Status: ['Not Started', 'Started', 'Completed', 'Failed'],
-        selectedStatus: 'Started'
+        selectedStatus: 'Failed'
       },
       {
         JobId: '',
@@ -3364,7 +3364,7 @@ export const Items = [
     applicationName: '',
     applicationDescription: '',
     totalJobsRun: '',
-    appDetails: [
+   appDetails: [
       {
         JobId: '',
         JobName: '',
@@ -3385,7 +3385,7 @@ export const Items = [
         ActualStartTime: '',
         ActualEndTime: '',
         Status: ['Not Started', 'Started', 'Completed', 'Failed'],
-        selectedStatus: 'Started'
+        selectedStatus: 'Not Started'
       },
       {
         JobId: '',
@@ -3396,7 +3396,7 @@ export const Items = [
         ActualStartTime: '',
         ActualEndTime: '',
         Status: ['Not Started', 'Started', 'Completed', 'Failed'],
-        selectedStatus: 'Started'
+        selectedStatus: 'Completed'
       },
       {
         JobId: '',
@@ -3407,7 +3407,7 @@ export const Items = [
         ActualStartTime: '',
         ActualEndTime: '',
         Status: ['Not Started', 'Started', 'Completed', 'Failed'],
-        selectedStatus: 'Started'
+        selectedStatus: 'Failed'
       },
       {
         JobId: '',
@@ -3460,7 +3460,7 @@ export const Items = [
     applicationName: '',
     applicationDescription: '',
     totalJobsRun: '',
-    appDetails: [
+   appDetails: [
       {
         JobId: '',
         JobName: '',
@@ -3481,7 +3481,7 @@ export const Items = [
         ActualStartTime: '',
         ActualEndTime: '',
         Status: ['Not Started', 'Started', 'Completed', 'Failed'],
-        selectedStatus: 'Started'
+        selectedStatus: 'Not Started'
       },
       {
         JobId: '',
@@ -3492,7 +3492,7 @@ export const Items = [
         ActualStartTime: '',
         ActualEndTime: '',
         Status: ['Not Started', 'Started', 'Completed', 'Failed'],
-        selectedStatus: 'Started'
+        selectedStatus: 'Completed'
       },
       {
         JobId: '',
@@ -3503,7 +3503,7 @@ export const Items = [
         ActualStartTime: '',
         ActualEndTime: '',
         Status: ['Not Started', 'Started', 'Completed', 'Failed'],
-        selectedStatus: 'Started'
+        selectedStatus: 'Failed'
       },
       {
         JobId: '',
@@ -3556,7 +3556,7 @@ export const Items = [
     applicationName: '',
     applicationDescription: '',
     totalJobsRun: '',
-    appDetails: [
+   appDetails: [
       {
         JobId: '',
         JobName: '',
@@ -3577,7 +3577,7 @@ export const Items = [
         ActualStartTime: '',
         ActualEndTime: '',
         Status: ['Not Started', 'Started', 'Completed', 'Failed'],
-        selectedStatus: 'Started'
+        selectedStatus: 'Not Started'
       },
       {
         JobId: '',
@@ -3588,7 +3588,7 @@ export const Items = [
         ActualStartTime: '',
         ActualEndTime: '',
         Status: ['Not Started', 'Started', 'Completed', 'Failed'],
-        selectedStatus: 'Started'
+        selectedStatus: 'Completed'
       },
       {
         JobId: '',
@@ -3599,7 +3599,7 @@ export const Items = [
         ActualStartTime: '',
         ActualEndTime: '',
         Status: ['Not Started', 'Started', 'Completed', 'Failed'],
-        selectedStatus: 'Started'
+        selectedStatus: 'Failed'
       },
       {
         JobId: '',
@@ -3652,7 +3652,7 @@ export const Items = [
     applicationName: '',
     applicationDescription: '',
     totalJobsRun: '',
-    appDetails: [
+   appDetails: [
       {
         JobId: '',
         JobName: '',
@@ -3673,7 +3673,7 @@ export const Items = [
         ActualStartTime: '',
         ActualEndTime: '',
         Status: ['Not Started', 'Started', 'Completed', 'Failed'],
-        selectedStatus: 'Started'
+        selectedStatus: 'Not Started'
       },
       {
         JobId: '',
@@ -3684,7 +3684,7 @@ export const Items = [
         ActualStartTime: '',
         ActualEndTime: '',
         Status: ['Not Started', 'Started', 'Completed', 'Failed'],
-        selectedStatus: 'Started'
+        selectedStatus: 'Completed'
       },
       {
         JobId: '',
@@ -3695,7 +3695,7 @@ export const Items = [
         ActualStartTime: '',
         ActualEndTime: '',
         Status: ['Not Started', 'Started', 'Completed', 'Failed'],
-        selectedStatus: 'Started'
+        selectedStatus: 'Failed'
       },
       {
         JobId: '',
@@ -3748,7 +3748,7 @@ export const Items = [
     applicationName: '',
     applicationDescription: '',
     totalJobsRun: '',
-    appDetails: [
+   appDetails: [
       {
         JobId: '',
         JobName: '',
@@ -3769,7 +3769,7 @@ export const Items = [
         ActualStartTime: '',
         ActualEndTime: '',
         Status: ['Not Started', 'Started', 'Completed', 'Failed'],
-        selectedStatus: 'Started'
+        selectedStatus: 'Not Started'
       },
       {
         JobId: '',
@@ -3780,7 +3780,7 @@ export const Items = [
         ActualStartTime: '',
         ActualEndTime: '',
         Status: ['Not Started', 'Started', 'Completed', 'Failed'],
-        selectedStatus: 'Started'
+        selectedStatus: 'Completed'
       },
       {
         JobId: '',
@@ -3791,7 +3791,7 @@ export const Items = [
         ActualStartTime: '',
         ActualEndTime: '',
         Status: ['Not Started', 'Started', 'Completed', 'Failed'],
-        selectedStatus: 'Started'
+        selectedStatus: 'Failed'
       },
       {
         JobId: '',
@@ -3844,7 +3844,7 @@ export const Items = [
     applicationName: '',
     applicationDescription: '',
     totalJobsRun: '',
-    appDetails: [
+   appDetails: [
       {
         JobId: '',
         JobName: '',
@@ -3865,7 +3865,7 @@ export const Items = [
         ActualStartTime: '',
         ActualEndTime: '',
         Status: ['Not Started', 'Started', 'Completed', 'Failed'],
-        selectedStatus: 'Started'
+        selectedStatus: 'Not Started'
       },
       {
         JobId: '',
@@ -3876,7 +3876,7 @@ export const Items = [
         ActualStartTime: '',
         ActualEndTime: '',
         Status: ['Not Started', 'Started', 'Completed', 'Failed'],
-        selectedStatus: 'Started'
+        selectedStatus: 'Completed'
       },
       {
         JobId: '',
@@ -3887,7 +3887,7 @@ export const Items = [
         ActualStartTime: '',
         ActualEndTime: '',
         Status: ['Not Started', 'Started', 'Completed', 'Failed'],
-        selectedStatus: 'Started'
+        selectedStatus: 'Failed'
       },
       {
         JobId: '',
@@ -3940,7 +3940,7 @@ export const Items = [
     applicationName: '',
     applicationDescription: '',
     totalJobsRun: '',
-    appDetails: [
+   appDetails: [
       {
         JobId: '',
         JobName: '',
@@ -3961,7 +3961,7 @@ export const Items = [
         ActualStartTime: '',
         ActualEndTime: '',
         Status: ['Not Started', 'Started', 'Completed', 'Failed'],
-        selectedStatus: 'Started'
+        selectedStatus: 'Not Started'
       },
       {
         JobId: '',
@@ -3972,7 +3972,7 @@ export const Items = [
         ActualStartTime: '',
         ActualEndTime: '',
         Status: ['Not Started', 'Started', 'Completed', 'Failed'],
-        selectedStatus: 'Started'
+        selectedStatus: 'Completed'
       },
       {
         JobId: '',
@@ -3983,7 +3983,7 @@ export const Items = [
         ActualStartTime: '',
         ActualEndTime: '',
         Status: ['Not Started', 'Started', 'Completed', 'Failed'],
-        selectedStatus: 'Started'
+        selectedStatus: 'Failed'
       },
       {
         JobId: '',
@@ -4036,7 +4036,7 @@ export const Items = [
     applicationName: '',
     applicationDescription: '',
     totalJobsRun: '',
-    appDetails: [
+   appDetails: [
       {
         JobId: '',
         JobName: '',
@@ -4057,7 +4057,7 @@ export const Items = [
         ActualStartTime: '',
         ActualEndTime: '',
         Status: ['Not Started', 'Started', 'Completed', 'Failed'],
-        selectedStatus: 'Started'
+        selectedStatus: 'Not Started'
       },
       {
         JobId: '',
@@ -4068,7 +4068,7 @@ export const Items = [
         ActualStartTime: '',
         ActualEndTime: '',
         Status: ['Not Started', 'Started', 'Completed', 'Failed'],
-        selectedStatus: 'Started'
+        selectedStatus: 'Completed'
       },
       {
         JobId: '',
@@ -4079,7 +4079,7 @@ export const Items = [
         ActualStartTime: '',
         ActualEndTime: '',
         Status: ['Not Started', 'Started', 'Completed', 'Failed'],
-        selectedStatus: 'Started'
+        selectedStatus: 'Failed'
       },
       {
         JobId: '',
@@ -4132,7 +4132,7 @@ export const Items = [
     applicationName: '',
     applicationDescription: '',
     totalJobsRun: '',
-    appDetails: [
+   appDetails: [
       {
         JobId: '',
         JobName: '',
@@ -4153,7 +4153,7 @@ export const Items = [
         ActualStartTime: '',
         ActualEndTime: '',
         Status: ['Not Started', 'Started', 'Completed', 'Failed'],
-        selectedStatus: 'Started'
+        selectedStatus: 'Not Started'
       },
       {
         JobId: '',
@@ -4164,7 +4164,7 @@ export const Items = [
         ActualStartTime: '',
         ActualEndTime: '',
         Status: ['Not Started', 'Started', 'Completed', 'Failed'],
-        selectedStatus: 'Started'
+        selectedStatus: 'Completed'
       },
       {
         JobId: '',
@@ -4175,7 +4175,7 @@ export const Items = [
         ActualStartTime: '',
         ActualEndTime: '',
         Status: ['Not Started', 'Started', 'Completed', 'Failed'],
-        selectedStatus: 'Started'
+        selectedStatus: 'Failed'
       },
       {
         JobId: '',
@@ -4228,7 +4228,7 @@ export const Items = [
     applicationName: '',
     applicationDescription: '',
     totalJobsRun: '',
-    appDetails: [
+   appDetails: [
       {
         JobId: '',
         JobName: '',
@@ -4249,7 +4249,7 @@ export const Items = [
         ActualStartTime: '',
         ActualEndTime: '',
         Status: ['Not Started', 'Started', 'Completed', 'Failed'],
-        selectedStatus: 'Started'
+        selectedStatus: 'Not Started'
       },
       {
         JobId: '',
@@ -4260,7 +4260,7 @@ export const Items = [
         ActualStartTime: '',
         ActualEndTime: '',
         Status: ['Not Started', 'Started', 'Completed', 'Failed'],
-        selectedStatus: 'Started'
+        selectedStatus: 'Completed'
       },
       {
         JobId: '',
@@ -4271,7 +4271,7 @@ export const Items = [
         ActualStartTime: '',
         ActualEndTime: '',
         Status: ['Not Started', 'Started', 'Completed', 'Failed'],
-        selectedStatus: 'Started'
+        selectedStatus: 'Failed'
       },
       {
         JobId: '',
@@ -4324,7 +4324,7 @@ export const Items = [
     applicationName: '',
     applicationDescription: '',
     totalJobsRun: '',
-    appDetails: [
+   appDetails: [
       {
         JobId: '',
         JobName: '',
@@ -4345,7 +4345,7 @@ export const Items = [
         ActualStartTime: '',
         ActualEndTime: '',
         Status: ['Not Started', 'Started', 'Completed', 'Failed'],
-        selectedStatus: 'Started'
+        selectedStatus: 'Not Started'
       },
       {
         JobId: '',
@@ -4356,7 +4356,7 @@ export const Items = [
         ActualStartTime: '',
         ActualEndTime: '',
         Status: ['Not Started', 'Started', 'Completed', 'Failed'],
-        selectedStatus: 'Started'
+        selectedStatus: 'Completed'
       },
       {
         JobId: '',
@@ -4367,7 +4367,7 @@ export const Items = [
         ActualStartTime: '',
         ActualEndTime: '',
         Status: ['Not Started', 'Started', 'Completed', 'Failed'],
-        selectedStatus: 'Started'
+        selectedStatus: 'Failed'
       },
       {
         JobId: '',
@@ -4420,7 +4420,7 @@ export const Items = [
     applicationName: '',
     applicationDescription: '',
     totalJobsRun: '',
-    appDetails: [
+   appDetails: [
       {
         JobId: '',
         JobName: '',
@@ -4441,7 +4441,7 @@ export const Items = [
         ActualStartTime: '',
         ActualEndTime: '',
         Status: ['Not Started', 'Started', 'Completed', 'Failed'],
-        selectedStatus: 'Started'
+        selectedStatus: 'Not Started'
       },
       {
         JobId: '',
@@ -4452,7 +4452,7 @@ export const Items = [
         ActualStartTime: '',
         ActualEndTime: '',
         Status: ['Not Started', 'Started', 'Completed', 'Failed'],
-        selectedStatus: 'Started'
+        selectedStatus: 'Completed'
       },
       {
         JobId: '',
@@ -4463,7 +4463,7 @@ export const Items = [
         ActualStartTime: '',
         ActualEndTime: '',
         Status: ['Not Started', 'Started', 'Completed', 'Failed'],
-        selectedStatus: 'Started'
+        selectedStatus: 'Failed'
       },
       {
         JobId: '',
@@ -4516,7 +4516,7 @@ export const Items = [
     applicationName: '',
     applicationDescription: '',
     totalJobsRun: '',
-    appDetails: [
+   appDetails: [
       {
         JobId: '',
         JobName: '',
@@ -4537,7 +4537,7 @@ export const Items = [
         ActualStartTime: '',
         ActualEndTime: '',
         Status: ['Not Started', 'Started', 'Completed', 'Failed'],
-        selectedStatus: 'Started'
+        selectedStatus: 'Not Started'
       },
       {
         JobId: '',
@@ -4548,7 +4548,7 @@ export const Items = [
         ActualStartTime: '',
         ActualEndTime: '',
         Status: ['Not Started', 'Started', 'Completed', 'Failed'],
-        selectedStatus: 'Started'
+        selectedStatus: 'Completed'
       },
       {
         JobId: '',
@@ -4559,7 +4559,7 @@ export const Items = [
         ActualStartTime: '',
         ActualEndTime: '',
         Status: ['Not Started', 'Started', 'Completed', 'Failed'],
-        selectedStatus: 'Started'
+        selectedStatus: 'Failed'
       },
       {
         JobId: '',
@@ -4612,7 +4612,7 @@ export const Items = [
     applicationName: '',
     applicationDescription: '',
     totalJobsRun: '',
-    appDetails: [
+   appDetails: [
       {
         JobId: '',
         JobName: '',
@@ -4633,7 +4633,7 @@ export const Items = [
         ActualStartTime: '',
         ActualEndTime: '',
         Status: ['Not Started', 'Started', 'Completed', 'Failed'],
-        selectedStatus: 'Started'
+        selectedStatus: 'Not Started'
       },
       {
         JobId: '',
@@ -4644,7 +4644,7 @@ export const Items = [
         ActualStartTime: '',
         ActualEndTime: '',
         Status: ['Not Started', 'Started', 'Completed', 'Failed'],
-        selectedStatus: 'Started'
+        selectedStatus: 'Completed'
       },
       {
         JobId: '',
@@ -4655,7 +4655,7 @@ export const Items = [
         ActualStartTime: '',
         ActualEndTime: '',
         Status: ['Not Started', 'Started', 'Completed', 'Failed'],
-        selectedStatus: 'Started'
+        selectedStatus: 'Failed'
       },
       {
         JobId: '',
@@ -4708,7 +4708,7 @@ export const Items = [
     applicationName: '',
     applicationDescription: '',
     totalJobsRun: '',
-    appDetails: [
+   appDetails: [
       {
         JobId: '',
         JobName: '',
@@ -4729,7 +4729,7 @@ export const Items = [
         ActualStartTime: '',
         ActualEndTime: '',
         Status: ['Not Started', 'Started', 'Completed', 'Failed'],
-        selectedStatus: 'Started'
+        selectedStatus: 'Not Started'
       },
       {
         JobId: '',
@@ -4740,7 +4740,7 @@ export const Items = [
         ActualStartTime: '',
         ActualEndTime: '',
         Status: ['Not Started', 'Started', 'Completed', 'Failed'],
-        selectedStatus: 'Started'
+        selectedStatus: 'Completed'
       },
       {
         JobId: '',
@@ -4751,7 +4751,7 @@ export const Items = [
         ActualStartTime: '',
         ActualEndTime: '',
         Status: ['Not Started', 'Started', 'Completed', 'Failed'],
-        selectedStatus: 'Started'
+        selectedStatus: 'Failed'
       },
       {
         JobId: '',
@@ -4804,7 +4804,7 @@ export const Items = [
     applicationName: '',
     applicationDescription: '',
     totalJobsRun: '',
-    appDetails: [
+   appDetails: [
       {
         JobId: '',
         JobName: '',
@@ -4825,7 +4825,7 @@ export const Items = [
         ActualStartTime: '',
         ActualEndTime: '',
         Status: ['Not Started', 'Started', 'Completed', 'Failed'],
-        selectedStatus: 'Started'
+        selectedStatus: 'Not Started'
       },
       {
         JobId: '',
@@ -4836,7 +4836,7 @@ export const Items = [
         ActualStartTime: '',
         ActualEndTime: '',
         Status: ['Not Started', 'Started', 'Completed', 'Failed'],
-        selectedStatus: 'Started'
+        selectedStatus: 'Completed'
       },
       {
         JobId: '',
@@ -4847,7 +4847,7 @@ export const Items = [
         ActualStartTime: '',
         ActualEndTime: '',
         Status: ['Not Started', 'Started', 'Completed', 'Failed'],
-        selectedStatus: 'Started'
+        selectedStatus: 'Failed'
       },
       {
         JobId: '',
@@ -4900,7 +4900,7 @@ export const Items = [
     applicationName: '',
     applicationDescription: '',
     totalJobsRun: '',
-    appDetails: [
+   appDetails: [
       {
         JobId: '',
         JobName: '',
@@ -4921,7 +4921,7 @@ export const Items = [
         ActualStartTime: '',
         ActualEndTime: '',
         Status: ['Not Started', 'Started', 'Completed', 'Failed'],
-        selectedStatus: 'Started'
+        selectedStatus: 'Not Started'
       },
       {
         JobId: '',
@@ -4932,7 +4932,7 @@ export const Items = [
         ActualStartTime: '',
         ActualEndTime: '',
         Status: ['Not Started', 'Started', 'Completed', 'Failed'],
-        selectedStatus: 'Started'
+        selectedStatus: 'Completed'
       },
       {
         JobId: '',
@@ -4943,7 +4943,7 @@ export const Items = [
         ActualStartTime: '',
         ActualEndTime: '',
         Status: ['Not Started', 'Started', 'Completed', 'Failed'],
-        selectedStatus: 'Started'
+        selectedStatus: 'Failed'
       },
       {
         JobId: '',
@@ -4996,7 +4996,7 @@ export const Items = [
     applicationName: '',
     applicationDescription: '',
     totalJobsRun: '',
-    appDetails: [
+   appDetails: [
       {
         JobId: '',
         JobName: '',
@@ -5017,7 +5017,7 @@ export const Items = [
         ActualStartTime: '',
         ActualEndTime: '',
         Status: ['Not Started', 'Started', 'Completed', 'Failed'],
-        selectedStatus: 'Started'
+        selectedStatus: 'Not Started'
       },
       {
         JobId: '',
@@ -5028,7 +5028,7 @@ export const Items = [
         ActualStartTime: '',
         ActualEndTime: '',
         Status: ['Not Started', 'Started', 'Completed', 'Failed'],
-        selectedStatus: 'Started'
+        selectedStatus: 'Completed'
       },
       {
         JobId: '',
@@ -5039,7 +5039,7 @@ export const Items = [
         ActualStartTime: '',
         ActualEndTime: '',
         Status: ['Not Started', 'Started', 'Completed', 'Failed'],
-        selectedStatus: 'Started'
+        selectedStatus: 'Failed'
       },
       {
         JobId: '',
@@ -5092,7 +5092,7 @@ export const Items = [
     applicationName: '',
     applicationDescription: '',
     totalJobsRun: '',
-    appDetails: [
+   appDetails: [
       {
         JobId: '',
         JobName: '',
@@ -5113,7 +5113,7 @@ export const Items = [
         ActualStartTime: '',
         ActualEndTime: '',
         Status: ['Not Started', 'Started', 'Completed', 'Failed'],
-        selectedStatus: 'Started'
+        selectedStatus: 'Not Started'
       },
       {
         JobId: '',
@@ -5124,7 +5124,7 @@ export const Items = [
         ActualStartTime: '',
         ActualEndTime: '',
         Status: ['Not Started', 'Started', 'Completed', 'Failed'],
-        selectedStatus: 'Started'
+        selectedStatus: 'Completed'
       },
       {
         JobId: '',
@@ -5135,7 +5135,7 @@ export const Items = [
         ActualStartTime: '',
         ActualEndTime: '',
         Status: ['Not Started', 'Started', 'Completed', 'Failed'],
-        selectedStatus: 'Started'
+        selectedStatus: 'Failed'
       },
       {
         JobId: '',
@@ -5188,7 +5188,7 @@ export const Items = [
     applicationName: '',
     applicationDescription: '',
     totalJobsRun: '',
-    appDetails: [
+   appDetails: [
       {
         JobId: '',
         JobName: '',
@@ -5209,7 +5209,7 @@ export const Items = [
         ActualStartTime: '',
         ActualEndTime: '',
         Status: ['Not Started', 'Started', 'Completed', 'Failed'],
-        selectedStatus: 'Started'
+        selectedStatus: 'Not Started'
       },
       {
         JobId: '',
@@ -5220,7 +5220,7 @@ export const Items = [
         ActualStartTime: '',
         ActualEndTime: '',
         Status: ['Not Started', 'Started', 'Completed', 'Failed'],
-        selectedStatus: 'Started'
+        selectedStatus: 'Completed'
       },
       {
         JobId: '',
@@ -5231,7 +5231,7 @@ export const Items = [
         ActualStartTime: '',
         ActualEndTime: '',
         Status: ['Not Started', 'Started', 'Completed', 'Failed'],
-        selectedStatus: 'Started'
+        selectedStatus: 'Failed'
       },
       {
         JobId: '',
@@ -5284,7 +5284,7 @@ export const Items = [
     applicationName: '',
     applicationDescription: '',
     totalJobsRun: '',
-    appDetails: [
+   appDetails: [
       {
         JobId: '',
         JobName: '',
@@ -5305,7 +5305,7 @@ export const Items = [
         ActualStartTime: '',
         ActualEndTime: '',
         Status: ['Not Started', 'Started', 'Completed', 'Failed'],
-        selectedStatus: 'Started'
+        selectedStatus: 'Not Started'
       },
       {
         JobId: '',
@@ -5316,7 +5316,7 @@ export const Items = [
         ActualStartTime: '',
         ActualEndTime: '',
         Status: ['Not Started', 'Started', 'Completed', 'Failed'],
-        selectedStatus: 'Started'
+        selectedStatus: 'Completed'
       },
       {
         JobId: '',
@@ -5327,7 +5327,7 @@ export const Items = [
         ActualStartTime: '',
         ActualEndTime: '',
         Status: ['Not Started', 'Started', 'Completed', 'Failed'],
-        selectedStatus: 'Started'
+        selectedStatus: 'Failed'
       },
       {
         JobId: '',
@@ -5380,7 +5380,7 @@ export const Items = [
     applicationName: '',
     applicationDescription: '',
     totalJobsRun: '',
-    appDetails: [
+   appDetails: [
       {
         JobId: '',
         JobName: '',
@@ -5401,7 +5401,7 @@ export const Items = [
         ActualStartTime: '',
         ActualEndTime: '',
         Status: ['Not Started', 'Started', 'Completed', 'Failed'],
-        selectedStatus: 'Started'
+        selectedStatus: 'Not Started'
       },
       {
         JobId: '',
@@ -5412,7 +5412,7 @@ export const Items = [
         ActualStartTime: '',
         ActualEndTime: '',
         Status: ['Not Started', 'Started', 'Completed', 'Failed'],
-        selectedStatus: 'Started'
+        selectedStatus: 'Completed'
       },
       {
         JobId: '',
@@ -5423,7 +5423,7 @@ export const Items = [
         ActualStartTime: '',
         ActualEndTime: '',
         Status: ['Not Started', 'Started', 'Completed', 'Failed'],
-        selectedStatus: 'Started'
+        selectedStatus: 'Failed'
       },
       {
         JobId: '',
@@ -5476,7 +5476,7 @@ export const Items = [
     applicationName: '',
     applicationDescription: '',
     totalJobsRun: '',
-    appDetails: [
+   appDetails: [
       {
         JobId: '',
         JobName: '',
@@ -5497,7 +5497,7 @@ export const Items = [
         ActualStartTime: '',
         ActualEndTime: '',
         Status: ['Not Started', 'Started', 'Completed', 'Failed'],
-        selectedStatus: 'Started'
+        selectedStatus: 'Not Started'
       },
       {
         JobId: '',
@@ -5508,7 +5508,7 @@ export const Items = [
         ActualStartTime: '',
         ActualEndTime: '',
         Status: ['Not Started', 'Started', 'Completed', 'Failed'],
-        selectedStatus: 'Started'
+        selectedStatus: 'Completed'
       },
       {
         JobId: '',
@@ -5519,7 +5519,7 @@ export const Items = [
         ActualStartTime: '',
         ActualEndTime: '',
         Status: ['Not Started', 'Started', 'Completed', 'Failed'],
-        selectedStatus: 'Started'
+        selectedStatus: 'Failed'
       },
       {
         JobId: '',
@@ -5572,7 +5572,7 @@ export const Items = [
     applicationName: '',
     applicationDescription: '',
     totalJobsRun: '',
-    appDetails: [
+   appDetails: [
       {
         JobId: '',
         JobName: '',
@@ -5593,7 +5593,7 @@ export const Items = [
         ActualStartTime: '',
         ActualEndTime: '',
         Status: ['Not Started', 'Started', 'Completed', 'Failed'],
-        selectedStatus: 'Started'
+        selectedStatus: 'Not Started'
       },
       {
         JobId: '',
@@ -5604,7 +5604,7 @@ export const Items = [
         ActualStartTime: '',
         ActualEndTime: '',
         Status: ['Not Started', 'Started', 'Completed', 'Failed'],
-        selectedStatus: 'Started'
+        selectedStatus: 'Completed'
       },
       {
         JobId: '',
@@ -5615,7 +5615,7 @@ export const Items = [
         ActualStartTime: '',
         ActualEndTime: '',
         Status: ['Not Started', 'Started', 'Completed', 'Failed'],
-        selectedStatus: 'Started'
+        selectedStatus: 'Failed'
       },
       {
         JobId: '',
@@ -5668,7 +5668,7 @@ export const Items = [
     applicationName: '',
     applicationDescription: '',
     totalJobsRun: '',
-    appDetails: [
+   appDetails: [
       {
         JobId: '',
         JobName: '',
@@ -5689,7 +5689,7 @@ export const Items = [
         ActualStartTime: '',
         ActualEndTime: '',
         Status: ['Not Started', 'Started', 'Completed', 'Failed'],
-        selectedStatus: 'Started'
+        selectedStatus: 'Not Started'
       },
       {
         JobId: '',
@@ -5700,7 +5700,7 @@ export const Items = [
         ActualStartTime: '',
         ActualEndTime: '',
         Status: ['Not Started', 'Started', 'Completed', 'Failed'],
-        selectedStatus: 'Started'
+        selectedStatus: 'Completed'
       },
       {
         JobId: '',
@@ -5711,7 +5711,7 @@ export const Items = [
         ActualStartTime: '',
         ActualEndTime: '',
         Status: ['Not Started', 'Started', 'Completed', 'Failed'],
-        selectedStatus: 'Started'
+        selectedStatus: 'Failed'
       },
       {
         JobId: '',
@@ -5764,7 +5764,7 @@ export const Items = [
     applicationName: '',
     applicationDescription: '',
     totalJobsRun: '',
-    appDetails: [
+   appDetails: [
       {
         JobId: '',
         JobName: '',
@@ -5785,7 +5785,7 @@ export const Items = [
         ActualStartTime: '',
         ActualEndTime: '',
         Status: ['Not Started', 'Started', 'Completed', 'Failed'],
-        selectedStatus: 'Started'
+        selectedStatus: 'Not Started'
       },
       {
         JobId: '',
@@ -5796,7 +5796,7 @@ export const Items = [
         ActualStartTime: '',
         ActualEndTime: '',
         Status: ['Not Started', 'Started', 'Completed', 'Failed'],
-        selectedStatus: 'Started'
+        selectedStatus: 'Completed'
       },
       {
         JobId: '',
@@ -5807,7 +5807,7 @@ export const Items = [
         ActualStartTime: '',
         ActualEndTime: '',
         Status: ['Not Started', 'Started', 'Completed', 'Failed'],
-        selectedStatus: 'Started'
+        selectedStatus: 'Failed'
       },
       {
         JobId: '',
@@ -5860,7 +5860,7 @@ export const Items = [
     applicationName: '',
     applicationDescription: '',
     totalJobsRun: '',
-    appDetails: [
+   appDetails: [
       {
         JobId: '',
         JobName: '',
@@ -5881,7 +5881,7 @@ export const Items = [
         ActualStartTime: '',
         ActualEndTime: '',
         Status: ['Not Started', 'Started', 'Completed', 'Failed'],
-        selectedStatus: 'Started'
+        selectedStatus: 'Not Started'
       },
       {
         JobId: '',
@@ -5892,7 +5892,7 @@ export const Items = [
         ActualStartTime: '',
         ActualEndTime: '',
         Status: ['Not Started', 'Started', 'Completed', 'Failed'],
-        selectedStatus: 'Started'
+        selectedStatus: 'Completed'
       },
       {
         JobId: '',
@@ -5903,7 +5903,7 @@ export const Items = [
         ActualStartTime: '',
         ActualEndTime: '',
         Status: ['Not Started', 'Started', 'Completed', 'Failed'],
-        selectedStatus: 'Started'
+        selectedStatus: 'Failed'
       },
       {
         JobId: '',
@@ -5956,7 +5956,7 @@ export const Items = [
     applicationName: '',
     applicationDescription: '',
     totalJobsRun: '',
-    appDetails: [
+   appDetails: [
       {
         JobId: '',
         JobName: '',
@@ -5977,7 +5977,7 @@ export const Items = [
         ActualStartTime: '',
         ActualEndTime: '',
         Status: ['Not Started', 'Started', 'Completed', 'Failed'],
-        selectedStatus: 'Started'
+        selectedStatus: 'Not Started'
       },
       {
         JobId: '',
@@ -5988,7 +5988,7 @@ export const Items = [
         ActualStartTime: '',
         ActualEndTime: '',
         Status: ['Not Started', 'Started', 'Completed', 'Failed'],
-        selectedStatus: 'Started'
+        selectedStatus: 'Completed'
       },
       {
         JobId: '',
@@ -5999,7 +5999,7 @@ export const Items = [
         ActualStartTime: '',
         ActualEndTime: '',
         Status: ['Not Started', 'Started', 'Completed', 'Failed'],
-        selectedStatus: 'Started'
+        selectedStatus: 'Failed'
       },
       {
         JobId: '',
@@ -6052,7 +6052,7 @@ export const Items = [
     applicationName: '',
     applicationDescription: '',
     totalJobsRun: '',
-    appDetails: [
+   appDetails: [
       {
         JobId: '',
         JobName: '',
@@ -6073,7 +6073,7 @@ export const Items = [
         ActualStartTime: '',
         ActualEndTime: '',
         Status: ['Not Started', 'Started', 'Completed', 'Failed'],
-        selectedStatus: 'Started'
+        selectedStatus: 'Not Started'
       },
       {
         JobId: '',
@@ -6084,7 +6084,7 @@ export const Items = [
         ActualStartTime: '',
         ActualEndTime: '',
         Status: ['Not Started', 'Started', 'Completed', 'Failed'],
-        selectedStatus: 'Started'
+        selectedStatus: 'Completed'
       },
       {
         JobId: '',
@@ -6095,7 +6095,7 @@ export const Items = [
         ActualStartTime: '',
         ActualEndTime: '',
         Status: ['Not Started', 'Started', 'Completed', 'Failed'],
-        selectedStatus: 'Started'
+        selectedStatus: 'Failed'
       },
       {
         JobId: '',
@@ -6148,7 +6148,7 @@ export const Items = [
     applicationName: '',
     applicationDescription: '',
     totalJobsRun: '',
-    appDetails: [
+   appDetails: [
       {
         JobId: '',
         JobName: '',
@@ -6169,7 +6169,7 @@ export const Items = [
         ActualStartTime: '',
         ActualEndTime: '',
         Status: ['Not Started', 'Started', 'Completed', 'Failed'],
-        selectedStatus: 'Started'
+        selectedStatus: 'Not Started'
       },
       {
         JobId: '',
@@ -6180,7 +6180,7 @@ export const Items = [
         ActualStartTime: '',
         ActualEndTime: '',
         Status: ['Not Started', 'Started', 'Completed', 'Failed'],
-        selectedStatus: 'Started'
+        selectedStatus: 'Completed'
       },
       {
         JobId: '',
@@ -6191,7 +6191,7 @@ export const Items = [
         ActualStartTime: '',
         ActualEndTime: '',
         Status: ['Not Started', 'Started', 'Completed', 'Failed'],
-        selectedStatus: 'Started'
+        selectedStatus: 'Failed'
       },
       {
         JobId: '',
@@ -6244,7 +6244,7 @@ export const Items = [
     applicationName: '',
     applicationDescription: '',
     totalJobsRun: '',
-    appDetails: [
+   appDetails: [
       {
         JobId: '',
         JobName: '',
@@ -6265,7 +6265,7 @@ export const Items = [
         ActualStartTime: '',
         ActualEndTime: '',
         Status: ['Not Started', 'Started', 'Completed', 'Failed'],
-        selectedStatus: 'Started'
+        selectedStatus: 'Not Started'
       },
       {
         JobId: '',
@@ -6276,7 +6276,7 @@ export const Items = [
         ActualStartTime: '',
         ActualEndTime: '',
         Status: ['Not Started', 'Started', 'Completed', 'Failed'],
-        selectedStatus: 'Started'
+        selectedStatus: 'Completed'
       },
       {
         JobId: '',
@@ -6287,7 +6287,7 @@ export const Items = [
         ActualStartTime: '',
         ActualEndTime: '',
         Status: ['Not Started', 'Started', 'Completed', 'Failed'],
-        selectedStatus: 'Started'
+        selectedStatus: 'Failed'
       },
       {
         JobId: '',
@@ -6340,7 +6340,7 @@ export const Items = [
     applicationName: '',
     applicationDescription: '',
     totalJobsRun: '',
-    appDetails: [
+   appDetails: [
       {
         JobId: '',
         JobName: '',
@@ -6361,7 +6361,7 @@ export const Items = [
         ActualStartTime: '',
         ActualEndTime: '',
         Status: ['Not Started', 'Started', 'Completed', 'Failed'],
-        selectedStatus: 'Started'
+        selectedStatus: 'Not Started'
       },
       {
         JobId: '',
@@ -6372,7 +6372,7 @@ export const Items = [
         ActualStartTime: '',
         ActualEndTime: '',
         Status: ['Not Started', 'Started', 'Completed', 'Failed'],
-        selectedStatus: 'Started'
+        selectedStatus: 'Completed'
       },
       {
         JobId: '',
@@ -6383,7 +6383,7 @@ export const Items = [
         ActualStartTime: '',
         ActualEndTime: '',
         Status: ['Not Started', 'Started', 'Completed', 'Failed'],
-        selectedStatus: 'Started'
+        selectedStatus: 'Failed'
       },
       {
         JobId: '',
@@ -6436,7 +6436,7 @@ export const Items = [
     applicationName: '',
     applicationDescription: '',
     totalJobsRun: '',
-    appDetails: [
+   appDetails: [
       {
         JobId: '',
         JobName: '',
@@ -6457,7 +6457,7 @@ export const Items = [
         ActualStartTime: '',
         ActualEndTime: '',
         Status: ['Not Started', 'Started', 'Completed', 'Failed'],
-        selectedStatus: 'Started'
+        selectedStatus: 'Not Started'
       },
       {
         JobId: '',
@@ -6468,7 +6468,7 @@ export const Items = [
         ActualStartTime: '',
         ActualEndTime: '',
         Status: ['Not Started', 'Started', 'Completed', 'Failed'],
-        selectedStatus: 'Started'
+        selectedStatus: 'Completed'
       },
       {
         JobId: '',
@@ -6479,7 +6479,7 @@ export const Items = [
         ActualStartTime: '',
         ActualEndTime: '',
         Status: ['Not Started', 'Started', 'Completed', 'Failed'],
-        selectedStatus: 'Started'
+        selectedStatus: 'Failed'
       },
       {
         JobId: '',
@@ -6532,7 +6532,7 @@ export const Items = [
     applicationName: '',
     applicationDescription: '',
     totalJobsRun: '',
-    appDetails: [
+   appDetails: [
       {
         JobId: '',
         JobName: '',
@@ -6553,7 +6553,7 @@ export const Items = [
         ActualStartTime: '',
         ActualEndTime: '',
         Status: ['Not Started', 'Started', 'Completed', 'Failed'],
-        selectedStatus: 'Started'
+        selectedStatus: 'Not Started'
       },
       {
         JobId: '',
@@ -6564,7 +6564,7 @@ export const Items = [
         ActualStartTime: '',
         ActualEndTime: '',
         Status: ['Not Started', 'Started', 'Completed', 'Failed'],
-        selectedStatus: 'Started'
+        selectedStatus: 'Completed'
       },
       {
         JobId: '',
@@ -6575,7 +6575,7 @@ export const Items = [
         ActualStartTime: '',
         ActualEndTime: '',
         Status: ['Not Started', 'Started', 'Completed', 'Failed'],
-        selectedStatus: 'Started'
+        selectedStatus: 'Failed'
       },
       {
         JobId: '',
@@ -6628,7 +6628,7 @@ export const Items = [
     applicationName: '',
     applicationDescription: '',
     totalJobsRun: '',
-    appDetails: [
+   appDetails: [
       {
         JobId: '',
         JobName: '',
@@ -6649,7 +6649,7 @@ export const Items = [
         ActualStartTime: '',
         ActualEndTime: '',
         Status: ['Not Started', 'Started', 'Completed', 'Failed'],
-        selectedStatus: 'Started'
+        selectedStatus: 'Not Started'
       },
       {
         JobId: '',
@@ -6660,7 +6660,7 @@ export const Items = [
         ActualStartTime: '',
         ActualEndTime: '',
         Status: ['Not Started', 'Started', 'Completed', 'Failed'],
-        selectedStatus: 'Started'
+        selectedStatus: 'Completed'
       },
       {
         JobId: '',
@@ -6671,7 +6671,7 @@ export const Items = [
         ActualStartTime: '',
         ActualEndTime: '',
         Status: ['Not Started', 'Started', 'Completed', 'Failed'],
-        selectedStatus: 'Started'
+        selectedStatus: 'Failed'
       },
       {
         JobId: '',
@@ -6724,7 +6724,7 @@ export const Items = [
     applicationName: '',
     applicationDescription: '',
     totalJobsRun: '',
-    appDetails: [
+   appDetails: [
       {
         JobId: '',
         JobName: '',
@@ -6745,7 +6745,7 @@ export const Items = [
         ActualStartTime: '',
         ActualEndTime: '',
         Status: ['Not Started', 'Started', 'Completed', 'Failed'],
-        selectedStatus: 'Started'
+        selectedStatus: 'Not Started'
       },
       {
         JobId: '',
@@ -6756,7 +6756,7 @@ export const Items = [
         ActualStartTime: '',
         ActualEndTime: '',
         Status: ['Not Started', 'Started', 'Completed', 'Failed'],
-        selectedStatus: 'Started'
+        selectedStatus: 'Completed'
       },
       {
         JobId: '',
@@ -6767,7 +6767,7 @@ export const Items = [
         ActualStartTime: '',
         ActualEndTime: '',
         Status: ['Not Started', 'Started', 'Completed', 'Failed'],
-        selectedStatus: 'Started'
+        selectedStatus: 'Failed'
       },
       {
         JobId: '',
@@ -6820,7 +6820,7 @@ export const Items = [
     applicationName: '',
     applicationDescription: '',
     totalJobsRun: '',
-    appDetails: [
+   appDetails: [
       {
         JobId: '',
         JobName: '',
@@ -6841,7 +6841,7 @@ export const Items = [
         ActualStartTime: '',
         ActualEndTime: '',
         Status: ['Not Started', 'Started', 'Completed', 'Failed'],
-        selectedStatus: 'Started'
+        selectedStatus: 'Not Started'
       },
       {
         JobId: '',
@@ -6852,7 +6852,7 @@ export const Items = [
         ActualStartTime: '',
         ActualEndTime: '',
         Status: ['Not Started', 'Started', 'Completed', 'Failed'],
-        selectedStatus: 'Started'
+        selectedStatus: 'Completed'
       },
       {
         JobId: '',
@@ -6863,7 +6863,7 @@ export const Items = [
         ActualStartTime: '',
         ActualEndTime: '',
         Status: ['Not Started', 'Started', 'Completed', 'Failed'],
-        selectedStatus: 'Started'
+        selectedStatus: 'Failed'
       },
       {
         JobId: '',
@@ -6916,7 +6916,7 @@ export const Items = [
     applicationName: '',
     applicationDescription: '',
     totalJobsRun: '',
-    appDetails: [
+   appDetails: [
       {
         JobId: '',
         JobName: '',
@@ -6937,7 +6937,7 @@ export const Items = [
         ActualStartTime: '',
         ActualEndTime: '',
         Status: ['Not Started', 'Started', 'Completed', 'Failed'],
-        selectedStatus: 'Started'
+        selectedStatus: 'Not Started'
       },
       {
         JobId: '',
@@ -6948,7 +6948,7 @@ export const Items = [
         ActualStartTime: '',
         ActualEndTime: '',
         Status: ['Not Started', 'Started', 'Completed', 'Failed'],
-        selectedStatus: 'Started'
+        selectedStatus: 'Completed'
       },
       {
         JobId: '',
@@ -6959,7 +6959,7 @@ export const Items = [
         ActualStartTime: '',
         ActualEndTime: '',
         Status: ['Not Started', 'Started', 'Completed', 'Failed'],
-        selectedStatus: 'Started'
+        selectedStatus: 'Failed'
       },
       {
         JobId: '',
@@ -7012,7 +7012,7 @@ export const Items = [
     applicationName: '',
     applicationDescription: '',
     totalJobsRun: '',
-    appDetails: [
+   appDetails: [
       {
         JobId: '',
         JobName: '',
@@ -7033,7 +7033,7 @@ export const Items = [
         ActualStartTime: '',
         ActualEndTime: '',
         Status: ['Not Started', 'Started', 'Completed', 'Failed'],
-        selectedStatus: 'Started'
+        selectedStatus: 'Not Started'
       },
       {
         JobId: '',
@@ -7044,7 +7044,7 @@ export const Items = [
         ActualStartTime: '',
         ActualEndTime: '',
         Status: ['Not Started', 'Started', 'Completed', 'Failed'],
-        selectedStatus: 'Started'
+        selectedStatus: 'Completed'
       },
       {
         JobId: '',
@@ -7055,7 +7055,7 @@ export const Items = [
         ActualStartTime: '',
         ActualEndTime: '',
         Status: ['Not Started', 'Started', 'Completed', 'Failed'],
-        selectedStatus: 'Started'
+        selectedStatus: 'Failed'
       },
       {
         JobId: '',
@@ -7108,7 +7108,7 @@ export const Items = [
     applicationName: '',
     applicationDescription: '',
     totalJobsRun: '',
-    appDetails: [
+   appDetails: [
       {
         JobId: '',
         JobName: '',
@@ -7129,7 +7129,7 @@ export const Items = [
         ActualStartTime: '',
         ActualEndTime: '',
         Status: ['Not Started', 'Started', 'Completed', 'Failed'],
-        selectedStatus: 'Started'
+        selectedStatus: 'Not Started'
       },
       {
         JobId: '',
@@ -7140,7 +7140,7 @@ export const Items = [
         ActualStartTime: '',
         ActualEndTime: '',
         Status: ['Not Started', 'Started', 'Completed', 'Failed'],
-        selectedStatus: 'Started'
+        selectedStatus: 'Completed'
       },
       {
         JobId: '',
@@ -7151,7 +7151,7 @@ export const Items = [
         ActualStartTime: '',
         ActualEndTime: '',
         Status: ['Not Started', 'Started', 'Completed', 'Failed'],
-        selectedStatus: 'Started'
+        selectedStatus: 'Failed'
       },
       {
         JobId: '',
@@ -7204,7 +7204,7 @@ export const Items = [
     applicationName: '',
     applicationDescription: '',
     totalJobsRun: '',
-    appDetails: [
+   appDetails: [
       {
         JobId: '',
         JobName: '',
@@ -7225,7 +7225,7 @@ export const Items = [
         ActualStartTime: '',
         ActualEndTime: '',
         Status: ['Not Started', 'Started', 'Completed', 'Failed'],
-        selectedStatus: 'Started'
+        selectedStatus: 'Not Started'
       },
       {
         JobId: '',
@@ -7236,7 +7236,7 @@ export const Items = [
         ActualStartTime: '',
         ActualEndTime: '',
         Status: ['Not Started', 'Started', 'Completed', 'Failed'],
-        selectedStatus: 'Started'
+        selectedStatus: 'Completed'
       },
       {
         JobId: '',
@@ -7247,7 +7247,7 @@ export const Items = [
         ActualStartTime: '',
         ActualEndTime: '',
         Status: ['Not Started', 'Started', 'Completed', 'Failed'],
-        selectedStatus: 'Started'
+        selectedStatus: 'Failed'
       },
       {
         JobId: '',
@@ -7300,7 +7300,7 @@ export const Items = [
     applicationName: '',
     applicationDescription: '',
     totalJobsRun: '',
-    appDetails: [
+   appDetails: [
       {
         JobId: '',
         JobName: '',
@@ -7321,7 +7321,7 @@ export const Items = [
         ActualStartTime: '',
         ActualEndTime: '',
         Status: ['Not Started', 'Started', 'Completed', 'Failed'],
-        selectedStatus: 'Started'
+        selectedStatus: 'Not Started'
       },
       {
         JobId: '',
@@ -7332,7 +7332,7 @@ export const Items = [
         ActualStartTime: '',
         ActualEndTime: '',
         Status: ['Not Started', 'Started', 'Completed', 'Failed'],
-        selectedStatus: 'Started'
+        selectedStatus: 'Completed'
       },
       {
         JobId: '',
@@ -7343,7 +7343,7 @@ export const Items = [
         ActualStartTime: '',
         ActualEndTime: '',
         Status: ['Not Started', 'Started', 'Completed', 'Failed'],
-        selectedStatus: 'Started'
+        selectedStatus: 'Failed'
       },
       {
         JobId: '',
@@ -7396,7 +7396,7 @@ export const Items = [
     applicationName: '',
     applicationDescription: '',
     totalJobsRun: '',
-    appDetails: [
+   appDetails: [
       {
         JobId: '',
         JobName: '',
@@ -7417,7 +7417,7 @@ export const Items = [
         ActualStartTime: '',
         ActualEndTime: '',
         Status: ['Not Started', 'Started', 'Completed', 'Failed'],
-        selectedStatus: 'Started'
+        selectedStatus: 'Not Started'
       },
       {
         JobId: '',
@@ -7428,7 +7428,7 @@ export const Items = [
         ActualStartTime: '',
         ActualEndTime: '',
         Status: ['Not Started', 'Started', 'Completed', 'Failed'],
-        selectedStatus: 'Started'
+        selectedStatus: 'Completed'
       },
       {
         JobId: '',
@@ -7439,7 +7439,7 @@ export const Items = [
         ActualStartTime: '',
         ActualEndTime: '',
         Status: ['Not Started', 'Started', 'Completed', 'Failed'],
-        selectedStatus: 'Started'
+        selectedStatus: 'Failed'
       },
       {
         JobId: '',
@@ -7492,7 +7492,7 @@ export const Items = [
     applicationName: '',
     applicationDescription: '',
     totalJobsRun: '',
-    appDetails: [
+   appDetails: [
       {
         JobId: '',
         JobName: '',
@@ -7513,7 +7513,7 @@ export const Items = [
         ActualStartTime: '',
         ActualEndTime: '',
         Status: ['Not Started', 'Started', 'Completed', 'Failed'],
-        selectedStatus: 'Started'
+        selectedStatus: 'Not Started'
       },
       {
         JobId: '',
@@ -7524,7 +7524,7 @@ export const Items = [
         ActualStartTime: '',
         ActualEndTime: '',
         Status: ['Not Started', 'Started', 'Completed', 'Failed'],
-        selectedStatus: 'Started'
+        selectedStatus: 'Completed'
       },
       {
         JobId: '',
@@ -7535,7 +7535,7 @@ export const Items = [
         ActualStartTime: '',
         ActualEndTime: '',
         Status: ['Not Started', 'Started', 'Completed', 'Failed'],
-        selectedStatus: 'Started'
+        selectedStatus: 'Failed'
       },
       {
         JobId: '',
@@ -7588,7 +7588,7 @@ export const Items = [
     applicationName: '',
     applicationDescription: '',
     totalJobsRun: '',
-    appDetails: [
+   appDetails: [
       {
         JobId: '',
         JobName: '',
@@ -7609,7 +7609,7 @@ export const Items = [
         ActualStartTime: '',
         ActualEndTime: '',
         Status: ['Not Started', 'Started', 'Completed', 'Failed'],
-        selectedStatus: 'Started'
+        selectedStatus: 'Not Started'
       },
       {
         JobId: '',
@@ -7620,7 +7620,7 @@ export const Items = [
         ActualStartTime: '',
         ActualEndTime: '',
         Status: ['Not Started', 'Started', 'Completed', 'Failed'],
-        selectedStatus: 'Started'
+        selectedStatus: 'Completed'
       },
       {
         JobId: '',
@@ -7631,7 +7631,7 @@ export const Items = [
         ActualStartTime: '',
         ActualEndTime: '',
         Status: ['Not Started', 'Started', 'Completed', 'Failed'],
-        selectedStatus: 'Started'
+        selectedStatus: 'Failed'
       },
       {
         JobId: '',
@@ -7684,7 +7684,7 @@ export const Items = [
     applicationName: '',
     applicationDescription: '',
     totalJobsRun: '',
-    appDetails: [
+   appDetails: [
       {
         JobId: '',
         JobName: '',
@@ -7705,7 +7705,7 @@ export const Items = [
         ActualStartTime: '',
         ActualEndTime: '',
         Status: ['Not Started', 'Started', 'Completed', 'Failed'],
-        selectedStatus: 'Started'
+        selectedStatus: 'Not Started'
       },
       {
         JobId: '',
@@ -7716,7 +7716,7 @@ export const Items = [
         ActualStartTime: '',
         ActualEndTime: '',
         Status: ['Not Started', 'Started', 'Completed', 'Failed'],
-        selectedStatus: 'Started'
+        selectedStatus: 'Completed'
       },
       {
         JobId: '',
@@ -7727,7 +7727,7 @@ export const Items = [
         ActualStartTime: '',
         ActualEndTime: '',
         Status: ['Not Started', 'Started', 'Completed', 'Failed'],
-        selectedStatus: 'Started'
+        selectedStatus: 'Failed'
       },
       {
         JobId: '',
@@ -7780,7 +7780,7 @@ export const Items = [
     applicationName: '',
     applicationDescription: '',
     totalJobsRun: '',
-    appDetails: [
+   appDetails: [
       {
         JobId: '',
         JobName: '',
@@ -7801,7 +7801,7 @@ export const Items = [
         ActualStartTime: '',
         ActualEndTime: '',
         Status: ['Not Started', 'Started', 'Completed', 'Failed'],
-        selectedStatus: 'Started'
+        selectedStatus: 'Not Started'
       },
       {
         JobId: '',
@@ -7812,7 +7812,7 @@ export const Items = [
         ActualStartTime: '',
         ActualEndTime: '',
         Status: ['Not Started', 'Started', 'Completed', 'Failed'],
-        selectedStatus: 'Started'
+        selectedStatus: 'Completed'
       },
       {
         JobId: '',
@@ -7823,7 +7823,7 @@ export const Items = [
         ActualStartTime: '',
         ActualEndTime: '',
         Status: ['Not Started', 'Started', 'Completed', 'Failed'],
-        selectedStatus: 'Started'
+        selectedStatus: 'Failed'
       },
       {
         JobId: '',
@@ -7876,7 +7876,7 @@ export const Items = [
     applicationName: '',
     applicationDescription: '',
     totalJobsRun: '',
-    appDetails: [
+   appDetails: [
       {
         JobId: '',
         JobName: '',
@@ -7897,7 +7897,7 @@ export const Items = [
         ActualStartTime: '',
         ActualEndTime: '',
         Status: ['Not Started', 'Started', 'Completed', 'Failed'],
-        selectedStatus: 'Started'
+        selectedStatus: 'Not Started'
       },
       {
         JobId: '',
@@ -7908,7 +7908,7 @@ export const Items = [
         ActualStartTime: '',
         ActualEndTime: '',
         Status: ['Not Started', 'Started', 'Completed', 'Failed'],
-        selectedStatus: 'Started'
+        selectedStatus: 'Completed'
       },
       {
         JobId: '',
@@ -7919,7 +7919,7 @@ export const Items = [
         ActualStartTime: '',
         ActualEndTime: '',
         Status: ['Not Started', 'Started', 'Completed', 'Failed'],
-        selectedStatus: 'Started'
+        selectedStatus: 'Failed'
       },
       {
         JobId: '',
@@ -7972,7 +7972,7 @@ export const Items = [
     applicationName: '',
     applicationDescription: '',
     totalJobsRun: '',
-    appDetails: [
+   appDetails: [
       {
         JobId: '',
         JobName: '',
@@ -7993,7 +7993,7 @@ export const Items = [
         ActualStartTime: '',
         ActualEndTime: '',
         Status: ['Not Started', 'Started', 'Completed', 'Failed'],
-        selectedStatus: 'Started'
+        selectedStatus: 'Not Started'
       },
       {
         JobId: '',
@@ -8004,7 +8004,7 @@ export const Items = [
         ActualStartTime: '',
         ActualEndTime: '',
         Status: ['Not Started', 'Started', 'Completed', 'Failed'],
-        selectedStatus: 'Started'
+        selectedStatus: 'Completed'
       },
       {
         JobId: '',
@@ -8015,7 +8015,7 @@ export const Items = [
         ActualStartTime: '',
         ActualEndTime: '',
         Status: ['Not Started', 'Started', 'Completed', 'Failed'],
-        selectedStatus: 'Started'
+        selectedStatus: 'Failed'
       },
       {
         JobId: '',
@@ -8068,7 +8068,7 @@ export const Items = [
     applicationName: '',
     applicationDescription: '',
     totalJobsRun: '',
-    appDetails: [
+   appDetails: [
       {
         JobId: '',
         JobName: '',
@@ -8089,7 +8089,7 @@ export const Items = [
         ActualStartTime: '',
         ActualEndTime: '',
         Status: ['Not Started', 'Started', 'Completed', 'Failed'],
-        selectedStatus: 'Started'
+        selectedStatus: 'Not Started'
       },
       {
         JobId: '',
@@ -8100,7 +8100,7 @@ export const Items = [
         ActualStartTime: '',
         ActualEndTime: '',
         Status: ['Not Started', 'Started', 'Completed', 'Failed'],
-        selectedStatus: 'Started'
+        selectedStatus: 'Completed'
       },
       {
         JobId: '',
@@ -8111,7 +8111,7 @@ export const Items = [
         ActualStartTime: '',
         ActualEndTime: '',
         Status: ['Not Started', 'Started', 'Completed', 'Failed'],
-        selectedStatus: 'Started'
+        selectedStatus: 'Failed'
       },
       {
         JobId: '',
@@ -8164,7 +8164,7 @@ export const Items = [
     applicationName: '',
     applicationDescription: '',
     totalJobsRun: '',
-    appDetails: [
+   appDetails: [
       {
         JobId: '',
         JobName: '',
@@ -8185,7 +8185,7 @@ export const Items = [
         ActualStartTime: '',
         ActualEndTime: '',
         Status: ['Not Started', 'Started', 'Completed', 'Failed'],
-        selectedStatus: 'Started'
+        selectedStatus: 'Not Started'
       },
       {
         JobId: '',
@@ -8196,7 +8196,7 @@ export const Items = [
         ActualStartTime: '',
         ActualEndTime: '',
         Status: ['Not Started', 'Started', 'Completed', 'Failed'],
-        selectedStatus: 'Started'
+        selectedStatus: 'Completed'
       },
       {
         JobId: '',
@@ -8207,7 +8207,7 @@ export const Items = [
         ActualStartTime: '',
         ActualEndTime: '',
         Status: ['Not Started', 'Started', 'Completed', 'Failed'],
-        selectedStatus: 'Started'
+        selectedStatus: 'Failed'
       },
       {
         JobId: '',
@@ -8260,7 +8260,7 @@ export const Items = [
     applicationName: '',
     applicationDescription: '',
     totalJobsRun: '',
-    appDetails: [
+   appDetails: [
       {
         JobId: '',
         JobName: '',
@@ -8281,7 +8281,7 @@ export const Items = [
         ActualStartTime: '',
         ActualEndTime: '',
         Status: ['Not Started', 'Started', 'Completed', 'Failed'],
-        selectedStatus: 'Started'
+        selectedStatus: 'Not Started'
       },
       {
         JobId: '',
@@ -8292,7 +8292,7 @@ export const Items = [
         ActualStartTime: '',
         ActualEndTime: '',
         Status: ['Not Started', 'Started', 'Completed', 'Failed'],
-        selectedStatus: 'Started'
+        selectedStatus: 'Completed'
       },
       {
         JobId: '',
@@ -8303,7 +8303,7 @@ export const Items = [
         ActualStartTime: '',
         ActualEndTime: '',
         Status: ['Not Started', 'Started', 'Completed', 'Failed'],
-        selectedStatus: 'Started'
+        selectedStatus: 'Failed'
       },
       {
         JobId: '',
@@ -8356,7 +8356,7 @@ export const Items = [
     applicationName: '',
     applicationDescription: '',
     totalJobsRun: '',
-    appDetails: [
+   appDetails: [
       {
         JobId: '',
         JobName: '',
@@ -8377,7 +8377,7 @@ export const Items = [
         ActualStartTime: '',
         ActualEndTime: '',
         Status: ['Not Started', 'Started', 'Completed', 'Failed'],
-        selectedStatus: 'Started'
+        selectedStatus: 'Not Started'
       },
       {
         JobId: '',
@@ -8388,7 +8388,7 @@ export const Items = [
         ActualStartTime: '',
         ActualEndTime: '',
         Status: ['Not Started', 'Started', 'Completed', 'Failed'],
-        selectedStatus: 'Started'
+        selectedStatus: 'Completed'
       },
       {
         JobId: '',
@@ -8399,7 +8399,7 @@ export const Items = [
         ActualStartTime: '',
         ActualEndTime: '',
         Status: ['Not Started', 'Started', 'Completed', 'Failed'],
-        selectedStatus: 'Started'
+        selectedStatus: 'Failed'
       },
       {
         JobId: '',
@@ -8452,7 +8452,7 @@ export const Items = [
     applicationName: '',
     applicationDescription: '',
     totalJobsRun: '',
-    appDetails: [
+   appDetails: [
       {
         JobId: '',
         JobName: '',
@@ -8473,7 +8473,7 @@ export const Items = [
         ActualStartTime: '',
         ActualEndTime: '',
         Status: ['Not Started', 'Started', 'Completed', 'Failed'],
-        selectedStatus: 'Started'
+        selectedStatus: 'Not Started'
       },
       {
         JobId: '',
@@ -8484,7 +8484,7 @@ export const Items = [
         ActualStartTime: '',
         ActualEndTime: '',
         Status: ['Not Started', 'Started', 'Completed', 'Failed'],
-        selectedStatus: 'Started'
+        selectedStatus: 'Completed'
       },
       {
         JobId: '',
@@ -8495,7 +8495,7 @@ export const Items = [
         ActualStartTime: '',
         ActualEndTime: '',
         Status: ['Not Started', 'Started', 'Completed', 'Failed'],
-        selectedStatus: 'Started'
+        selectedStatus: 'Failed'
       },
       {
         JobId: '',
@@ -8548,7 +8548,7 @@ export const Items = [
     applicationName: '',
     applicationDescription: '',
     totalJobsRun: '',
-    appDetails: [
+   appDetails: [
       {
         JobId: '',
         JobName: '',
@@ -8569,7 +8569,7 @@ export const Items = [
         ActualStartTime: '',
         ActualEndTime: '',
         Status: ['Not Started', 'Started', 'Completed', 'Failed'],
-        selectedStatus: 'Started'
+        selectedStatus: 'Not Started'
       },
       {
         JobId: '',
@@ -8580,7 +8580,7 @@ export const Items = [
         ActualStartTime: '',
         ActualEndTime: '',
         Status: ['Not Started', 'Started', 'Completed', 'Failed'],
-        selectedStatus: 'Started'
+        selectedStatus: 'Completed'
       },
       {
         JobId: '',
@@ -8591,7 +8591,7 @@ export const Items = [
         ActualStartTime: '',
         ActualEndTime: '',
         Status: ['Not Started', 'Started', 'Completed', 'Failed'],
-        selectedStatus: 'Started'
+        selectedStatus: 'Failed'
       },
       {
         JobId: '',
@@ -8644,7 +8644,7 @@ export const Items = [
     applicationName: '',
     applicationDescription: '',
     totalJobsRun: '',
-    appDetails: [
+   appDetails: [
       {
         JobId: '',
         JobName: '',
@@ -8665,7 +8665,7 @@ export const Items = [
         ActualStartTime: '',
         ActualEndTime: '',
         Status: ['Not Started', 'Started', 'Completed', 'Failed'],
-        selectedStatus: 'Started'
+        selectedStatus: 'Not Started'
       },
       {
         JobId: '',
@@ -8676,7 +8676,7 @@ export const Items = [
         ActualStartTime: '',
         ActualEndTime: '',
         Status: ['Not Started', 'Started', 'Completed', 'Failed'],
-        selectedStatus: 'Started'
+        selectedStatus: 'Completed'
       },
       {
         JobId: '',
@@ -8687,7 +8687,7 @@ export const Items = [
         ActualStartTime: '',
         ActualEndTime: '',
         Status: ['Not Started', 'Started', 'Completed', 'Failed'],
-        selectedStatus: 'Started'
+        selectedStatus: 'Failed'
       },
       {
         JobId: '',
@@ -8740,7 +8740,7 @@ export const Items = [
     applicationName: '',
     applicationDescription: '',
     totalJobsRun: '',
-    appDetails: [
+   appDetails: [
       {
         JobId: '',
         JobName: '',
@@ -8761,7 +8761,7 @@ export const Items = [
         ActualStartTime: '',
         ActualEndTime: '',
         Status: ['Not Started', 'Started', 'Completed', 'Failed'],
-        selectedStatus: 'Started'
+        selectedStatus: 'Not Started'
       },
       {
         JobId: '',
@@ -8772,7 +8772,7 @@ export const Items = [
         ActualStartTime: '',
         ActualEndTime: '',
         Status: ['Not Started', 'Started', 'Completed', 'Failed'],
-        selectedStatus: 'Started'
+        selectedStatus: 'Completed'
       },
       {
         JobId: '',
@@ -8783,7 +8783,7 @@ export const Items = [
         ActualStartTime: '',
         ActualEndTime: '',
         Status: ['Not Started', 'Started', 'Completed', 'Failed'],
-        selectedStatus: 'Started'
+        selectedStatus: 'Failed'
       },
       {
         JobId: '',
@@ -8836,7 +8836,7 @@ export const Items = [
     applicationName: '',
     applicationDescription: '',
     totalJobsRun: '',
-    appDetails: [
+   appDetails: [
       {
         JobId: '',
         JobName: '',
@@ -8857,7 +8857,7 @@ export const Items = [
         ActualStartTime: '',
         ActualEndTime: '',
         Status: ['Not Started', 'Started', 'Completed', 'Failed'],
-        selectedStatus: 'Started'
+        selectedStatus: 'Not Started'
       },
       {
         JobId: '',
@@ -8868,7 +8868,7 @@ export const Items = [
         ActualStartTime: '',
         ActualEndTime: '',
         Status: ['Not Started', 'Started', 'Completed', 'Failed'],
-        selectedStatus: 'Started'
+        selectedStatus: 'Completed'
       },
       {
         JobId: '',
@@ -8879,7 +8879,7 @@ export const Items = [
         ActualStartTime: '',
         ActualEndTime: '',
         Status: ['Not Started', 'Started', 'Completed', 'Failed'],
-        selectedStatus: 'Started'
+        selectedStatus: 'Failed'
       },
       {
         JobId: '',
@@ -8932,7 +8932,7 @@ export const Items = [
     applicationName: '',
     applicationDescription: '',
     totalJobsRun: '',
-    appDetails: [
+   appDetails: [
       {
         JobId: '',
         JobName: '',
@@ -8953,7 +8953,7 @@ export const Items = [
         ActualStartTime: '',
         ActualEndTime: '',
         Status: ['Not Started', 'Started', 'Completed', 'Failed'],
-        selectedStatus: 'Started'
+        selectedStatus: 'Not Started'
       },
       {
         JobId: '',
@@ -8964,7 +8964,7 @@ export const Items = [
         ActualStartTime: '',
         ActualEndTime: '',
         Status: ['Not Started', 'Started', 'Completed', 'Failed'],
-        selectedStatus: 'Started'
+        selectedStatus: 'Completed'
       },
       {
         JobId: '',
@@ -8975,7 +8975,7 @@ export const Items = [
         ActualStartTime: '',
         ActualEndTime: '',
         Status: ['Not Started', 'Started', 'Completed', 'Failed'],
-        selectedStatus: 'Started'
+        selectedStatus: 'Failed'
       },
       {
         JobId: '',
@@ -9028,7 +9028,7 @@ export const Items = [
     applicationName: '',
     applicationDescription: '',
     totalJobsRun: '',
-    appDetails: [
+   appDetails: [
       {
         JobId: '',
         JobName: '',
@@ -9049,7 +9049,7 @@ export const Items = [
         ActualStartTime: '',
         ActualEndTime: '',
         Status: ['Not Started', 'Started', 'Completed', 'Failed'],
-        selectedStatus: 'Started'
+        selectedStatus: 'Not Started'
       },
       {
         JobId: '',
@@ -9060,7 +9060,7 @@ export const Items = [
         ActualStartTime: '',
         ActualEndTime: '',
         Status: ['Not Started', 'Started', 'Completed', 'Failed'],
-        selectedStatus: 'Started'
+        selectedStatus: 'Completed'
       },
       {
         JobId: '',
@@ -9071,7 +9071,7 @@ export const Items = [
         ActualStartTime: '',
         ActualEndTime: '',
         Status: ['Not Started', 'Started', 'Completed', 'Failed'],
-        selectedStatus: 'Started'
+        selectedStatus: 'Failed'
       },
       {
         JobId: '',
@@ -9124,7 +9124,7 @@ export const Items = [
     applicationName: '',
     applicationDescription: '',
     totalJobsRun: '',
-    appDetails: [
+   appDetails: [
       {
         JobId: '',
         JobName: '',
@@ -9145,7 +9145,7 @@ export const Items = [
         ActualStartTime: '',
         ActualEndTime: '',
         Status: ['Not Started', 'Started', 'Completed', 'Failed'],
-        selectedStatus: 'Started'
+        selectedStatus: 'Not Started'
       },
       {
         JobId: '',
@@ -9156,7 +9156,7 @@ export const Items = [
         ActualStartTime: '',
         ActualEndTime: '',
         Status: ['Not Started', 'Started', 'Completed', 'Failed'],
-        selectedStatus: 'Started'
+        selectedStatus: 'Completed'
       },
       {
         JobId: '',
@@ -9167,7 +9167,7 @@ export const Items = [
         ActualStartTime: '',
         ActualEndTime: '',
         Status: ['Not Started', 'Started', 'Completed', 'Failed'],
-        selectedStatus: 'Started'
+        selectedStatus: 'Failed'
       },
       {
         JobId: '',
@@ -9220,7 +9220,7 @@ export const Items = [
     applicationName: '',
     applicationDescription: '',
     totalJobsRun: '',
-    appDetails: [
+   appDetails: [
       {
         JobId: '',
         JobName: '',
@@ -9241,7 +9241,7 @@ export const Items = [
         ActualStartTime: '',
         ActualEndTime: '',
         Status: ['Not Started', 'Started', 'Completed', 'Failed'],
-        selectedStatus: 'Started'
+        selectedStatus: 'Not Started'
       },
       {
         JobId: '',
@@ -9252,7 +9252,7 @@ export const Items = [
         ActualStartTime: '',
         ActualEndTime: '',
         Status: ['Not Started', 'Started', 'Completed', 'Failed'],
-        selectedStatus: 'Started'
+        selectedStatus: 'Completed'
       },
       {
         JobId: '',
@@ -9263,7 +9263,7 @@ export const Items = [
         ActualStartTime: '',
         ActualEndTime: '',
         Status: ['Not Started', 'Started', 'Completed', 'Failed'],
-        selectedStatus: 'Started'
+        selectedStatus: 'Failed'
       },
       {
         JobId: '',
@@ -9316,7 +9316,7 @@ export const Items = [
     applicationName: '',
     applicationDescription: '',
     totalJobsRun: '',
-    appDetails: [
+   appDetails: [
       {
         JobId: '',
         JobName: '',
@@ -9337,7 +9337,7 @@ export const Items = [
         ActualStartTime: '',
         ActualEndTime: '',
         Status: ['Not Started', 'Started', 'Completed', 'Failed'],
-        selectedStatus: 'Started'
+        selectedStatus: 'Not Started'
       },
       {
         JobId: '',
@@ -9348,7 +9348,7 @@ export const Items = [
         ActualStartTime: '',
         ActualEndTime: '',
         Status: ['Not Started', 'Started', 'Completed', 'Failed'],
-        selectedStatus: 'Started'
+        selectedStatus: 'Completed'
       },
       {
         JobId: '',
@@ -9359,7 +9359,7 @@ export const Items = [
         ActualStartTime: '',
         ActualEndTime: '',
         Status: ['Not Started', 'Started', 'Completed', 'Failed'],
-        selectedStatus: 'Started'
+        selectedStatus: 'Failed'
       },
       {
         JobId: '',
@@ -9412,7 +9412,7 @@ export const Items = [
     applicationName: '',
     applicationDescription: '',
     totalJobsRun: '',
-    appDetails: [
+   appDetails: [
       {
         JobId: '',
         JobName: '',
@@ -9433,7 +9433,7 @@ export const Items = [
         ActualStartTime: '',
         ActualEndTime: '',
         Status: ['Not Started', 'Started', 'Completed', 'Failed'],
-        selectedStatus: 'Started'
+        selectedStatus: 'Not Started'
       },
       {
         JobId: '',
@@ -9444,7 +9444,7 @@ export const Items = [
         ActualStartTime: '',
         ActualEndTime: '',
         Status: ['Not Started', 'Started', 'Completed', 'Failed'],
-        selectedStatus: 'Started'
+        selectedStatus: 'Completed'
       },
       {
         JobId: '',
@@ -9455,7 +9455,7 @@ export const Items = [
         ActualStartTime: '',
         ActualEndTime: '',
         Status: ['Not Started', 'Started', 'Completed', 'Failed'],
-        selectedStatus: 'Started'
+        selectedStatus: 'Failed'
       },
       {
         JobId: '',
@@ -9508,7 +9508,7 @@ export const Items = [
     applicationName: '',
     applicationDescription: '',
     totalJobsRun: '',
-    appDetails: [
+   appDetails: [
       {
         JobId: '',
         JobName: '',
@@ -9529,7 +9529,7 @@ export const Items = [
         ActualStartTime: '',
         ActualEndTime: '',
         Status: ['Not Started', 'Started', 'Completed', 'Failed'],
-        selectedStatus: 'Started'
+        selectedStatus: 'Not Started'
       },
       {
         JobId: '',
@@ -9540,7 +9540,7 @@ export const Items = [
         ActualStartTime: '',
         ActualEndTime: '',
         Status: ['Not Started', 'Started', 'Completed', 'Failed'],
-        selectedStatus: 'Started'
+        selectedStatus: 'Completed'
       },
       {
         JobId: '',
@@ -9551,7 +9551,7 @@ export const Items = [
         ActualStartTime: '',
         ActualEndTime: '',
         Status: ['Not Started', 'Started', 'Completed', 'Failed'],
-        selectedStatus: 'Started'
+        selectedStatus: 'Failed'
       },
       {
         JobId: '',
@@ -9604,7 +9604,7 @@ export const Items = [
     applicationName: '',
     applicationDescription: '',
     totalJobsRun: '',
-    appDetails: [
+   appDetails: [
       {
         JobId: '',
         JobName: '',
@@ -9625,7 +9625,7 @@ export const Items = [
         ActualStartTime: '',
         ActualEndTime: '',
         Status: ['Not Started', 'Started', 'Completed', 'Failed'],
-        selectedStatus: 'Started'
+        selectedStatus: 'Not Started'
       },
       {
         JobId: '',
@@ -9636,7 +9636,7 @@ export const Items = [
         ActualStartTime: '',
         ActualEndTime: '',
         Status: ['Not Started', 'Started', 'Completed', 'Failed'],
-        selectedStatus: 'Started'
+        selectedStatus: 'Completed'
       },
       {
         JobId: '',
@@ -9647,7 +9647,7 @@ export const Items = [
         ActualStartTime: '',
         ActualEndTime: '',
         Status: ['Not Started', 'Started', 'Completed', 'Failed'],
-        selectedStatus: 'Started'
+        selectedStatus: 'Failed'
       },
       {
         JobId: '',
@@ -9700,7 +9700,7 @@ export const Items = [
     applicationName: '',
     applicationDescription: '',
     totalJobsRun: '',
-    appDetails: [
+   appDetails: [
       {
         JobId: '',
         JobName: '',
@@ -9721,7 +9721,7 @@ export const Items = [
         ActualStartTime: '',
         ActualEndTime: '',
         Status: ['Not Started', 'Started', 'Completed', 'Failed'],
-        selectedStatus: 'Started'
+        selectedStatus: 'Not Started'
       },
       {
         JobId: '',
@@ -9732,7 +9732,7 @@ export const Items = [
         ActualStartTime: '',
         ActualEndTime: '',
         Status: ['Not Started', 'Started', 'Completed', 'Failed'],
-        selectedStatus: 'Started'
+        selectedStatus: 'Completed'
       },
       {
         JobId: '',
@@ -9743,7 +9743,7 @@ export const Items = [
         ActualStartTime: '',
         ActualEndTime: '',
         Status: ['Not Started', 'Started', 'Completed', 'Failed'],
-        selectedStatus: 'Started'
+        selectedStatus: 'Failed'
       },
       {
         JobId: '',
@@ -9796,7 +9796,7 @@ export const Items = [
     applicationName: '',
     applicationDescription: '',
     totalJobsRun: '',
-    appDetails: [
+   appDetails: [
       {
         JobId: '',
         JobName: '',
@@ -9817,7 +9817,7 @@ export const Items = [
         ActualStartTime: '',
         ActualEndTime: '',
         Status: ['Not Started', 'Started', 'Completed', 'Failed'],
-        selectedStatus: 'Started'
+        selectedStatus: 'Not Started'
       },
       {
         JobId: '',
@@ -9828,7 +9828,7 @@ export const Items = [
         ActualStartTime: '',
         ActualEndTime: '',
         Status: ['Not Started', 'Started', 'Completed', 'Failed'],
-        selectedStatus: 'Started'
+        selectedStatus: 'Completed'
       },
       {
         JobId: '',
@@ -9839,7 +9839,7 @@ export const Items = [
         ActualStartTime: '',
         ActualEndTime: '',
         Status: ['Not Started', 'Started', 'Completed', 'Failed'],
-        selectedStatus: 'Started'
+        selectedStatus: 'Failed'
       },
       {
         JobId: '',
@@ -9892,7 +9892,7 @@ export const Items = [
     applicationName: '',
     applicationDescription: '',
     totalJobsRun: '',
-    appDetails: [
+   appDetails: [
       {
         JobId: '',
         JobName: '',
@@ -9913,7 +9913,7 @@ export const Items = [
         ActualStartTime: '',
         ActualEndTime: '',
         Status: ['Not Started', 'Started', 'Completed', 'Failed'],
-        selectedStatus: 'Started'
+        selectedStatus: 'Not Started'
       },
       {
         JobId: '',
@@ -9924,7 +9924,7 @@ export const Items = [
         ActualStartTime: '',
         ActualEndTime: '',
         Status: ['Not Started', 'Started', 'Completed', 'Failed'],
-        selectedStatus: 'Started'
+        selectedStatus: 'Completed'
       },
       {
         JobId: '',
@@ -9935,7 +9935,7 @@ export const Items = [
         ActualStartTime: '',
         ActualEndTime: '',
         Status: ['Not Started', 'Started', 'Completed', 'Failed'],
-        selectedStatus: 'Started'
+        selectedStatus: 'Failed'
       },
       {
         JobId: '',
@@ -9988,7 +9988,7 @@ export const Items = [
     applicationName: '',
     applicationDescription: '',
     totalJobsRun: '',
-    appDetails: [
+   appDetails: [
       {
         JobId: '',
         JobName: '',
@@ -10009,7 +10009,7 @@ export const Items = [
         ActualStartTime: '',
         ActualEndTime: '',
         Status: ['Not Started', 'Started', 'Completed', 'Failed'],
-        selectedStatus: 'Started'
+        selectedStatus: 'Not Started'
       },
       {
         JobId: '',
@@ -10020,7 +10020,7 @@ export const Items = [
         ActualStartTime: '',
         ActualEndTime: '',
         Status: ['Not Started', 'Started', 'Completed', 'Failed'],
-        selectedStatus: 'Started'
+        selectedStatus: 'Completed'
       },
       {
         JobId: '',
@@ -10031,7 +10031,7 @@ export const Items = [
         ActualStartTime: '',
         ActualEndTime: '',
         Status: ['Not Started', 'Started', 'Completed', 'Failed'],
-        selectedStatus: 'Started'
+        selectedStatus: 'Failed'
       },
       {
         JobId: '',
@@ -10084,7 +10084,7 @@ export const Items = [
     applicationName: '',
     applicationDescription: '',
     totalJobsRun: '',
-    appDetails: [
+   appDetails: [
       {
         JobId: '',
         JobName: '',
@@ -10105,7 +10105,7 @@ export const Items = [
         ActualStartTime: '',
         ActualEndTime: '',
         Status: ['Not Started', 'Started', 'Completed', 'Failed'],
-        selectedStatus: 'Started'
+        selectedStatus: 'Not Started'
       },
       {
         JobId: '',
@@ -10116,7 +10116,7 @@ export const Items = [
         ActualStartTime: '',
         ActualEndTime: '',
         Status: ['Not Started', 'Started', 'Completed', 'Failed'],
-        selectedStatus: 'Started'
+        selectedStatus: 'Completed'
       },
       {
         JobId: '',
@@ -10127,7 +10127,7 @@ export const Items = [
         ActualStartTime: '',
         ActualEndTime: '',
         Status: ['Not Started', 'Started', 'Completed', 'Failed'],
-        selectedStatus: 'Started'
+        selectedStatus: 'Failed'
       },
       {
         JobId: '',
@@ -10180,7 +10180,7 @@ export const Items = [
     applicationName: '',
     applicationDescription: '',
     totalJobsRun: '',
-    appDetails: [
+   appDetails: [
       {
         JobId: '',
         JobName: '',
@@ -10201,7 +10201,7 @@ export const Items = [
         ActualStartTime: '',
         ActualEndTime: '',
         Status: ['Not Started', 'Started', 'Completed', 'Failed'],
-        selectedStatus: 'Started'
+        selectedStatus: 'Not Started'
       },
       {
         JobId: '',
@@ -10212,7 +10212,7 @@ export const Items = [
         ActualStartTime: '',
         ActualEndTime: '',
         Status: ['Not Started', 'Started', 'Completed', 'Failed'],
-        selectedStatus: 'Started'
+        selectedStatus: 'Completed'
       },
       {
         JobId: '',
@@ -10223,7 +10223,7 @@ export const Items = [
         ActualStartTime: '',
         ActualEndTime: '',
         Status: ['Not Started', 'Started', 'Completed', 'Failed'],
-        selectedStatus: 'Started'
+        selectedStatus: 'Failed'
       },
       {
         JobId: '',
@@ -10276,7 +10276,7 @@ export const Items = [
     applicationName: '',
     applicationDescription: '',
     totalJobsRun: '',
-    appDetails: [
+   appDetails: [
       {
         JobId: '',
         JobName: '',
@@ -10297,7 +10297,7 @@ export const Items = [
         ActualStartTime: '',
         ActualEndTime: '',
         Status: ['Not Started', 'Started', 'Completed', 'Failed'],
-        selectedStatus: 'Started'
+        selectedStatus: 'Not Started'
       },
       {
         JobId: '',
@@ -10308,7 +10308,7 @@ export const Items = [
         ActualStartTime: '',
         ActualEndTime: '',
         Status: ['Not Started', 'Started', 'Completed', 'Failed'],
-        selectedStatus: 'Started'
+        selectedStatus: 'Completed'
       },
       {
         JobId: '',
@@ -10319,7 +10319,7 @@ export const Items = [
         ActualStartTime: '',
         ActualEndTime: '',
         Status: ['Not Started', 'Started', 'Completed', 'Failed'],
-        selectedStatus: 'Started'
+        selectedStatus: 'Failed'
       },
       {
         JobId: '',
@@ -10372,7 +10372,7 @@ export const Items = [
     applicationName: '',
     applicationDescription: '',
     totalJobsRun: '',
-    appDetails: [
+   appDetails: [
       {
         JobId: '',
         JobName: '',
@@ -10393,7 +10393,7 @@ export const Items = [
         ActualStartTime: '',
         ActualEndTime: '',
         Status: ['Not Started', 'Started', 'Completed', 'Failed'],
-        selectedStatus: 'Started'
+        selectedStatus: 'Not Started'
       },
       {
         JobId: '',
@@ -10404,7 +10404,7 @@ export const Items = [
         ActualStartTime: '',
         ActualEndTime: '',
         Status: ['Not Started', 'Started', 'Completed', 'Failed'],
-        selectedStatus: 'Started'
+        selectedStatus: 'Completed'
       },
       {
         JobId: '',
@@ -10415,7 +10415,7 @@ export const Items = [
         ActualStartTime: '',
         ActualEndTime: '',
         Status: ['Not Started', 'Started', 'Completed', 'Failed'],
-        selectedStatus: 'Started'
+        selectedStatus: 'Failed'
       },
       {
         JobId: '',
@@ -10468,7 +10468,7 @@ export const Items = [
     applicationName: '',
     applicationDescription: '',
     totalJobsRun: '',
-    appDetails: [
+   appDetails: [
       {
         JobId: '',
         JobName: '',
@@ -10489,7 +10489,7 @@ export const Items = [
         ActualStartTime: '',
         ActualEndTime: '',
         Status: ['Not Started', 'Started', 'Completed', 'Failed'],
-        selectedStatus: 'Started'
+        selectedStatus: 'Not Started'
       },
       {
         JobId: '',
@@ -10500,7 +10500,7 @@ export const Items = [
         ActualStartTime: '',
         ActualEndTime: '',
         Status: ['Not Started', 'Started', 'Completed', 'Failed'],
-        selectedStatus: 'Started'
+        selectedStatus: 'Completed'
       },
       {
         JobId: '',
@@ -10511,7 +10511,7 @@ export const Items = [
         ActualStartTime: '',
         ActualEndTime: '',
         Status: ['Not Started', 'Started', 'Completed', 'Failed'],
-        selectedStatus: 'Started'
+        selectedStatus: 'Failed'
       },
       {
         JobId: '',
@@ -10564,7 +10564,7 @@ export const Items = [
     applicationName: '',
     applicationDescription: '',
     totalJobsRun: '',
-    appDetails: [
+   appDetails: [
       {
         JobId: '',
         JobName: '',
@@ -10585,7 +10585,7 @@ export const Items = [
         ActualStartTime: '',
         ActualEndTime: '',
         Status: ['Not Started', 'Started', 'Completed', 'Failed'],
-        selectedStatus: 'Started'
+        selectedStatus: 'Not Started'
       },
       {
         JobId: '',
@@ -10596,7 +10596,7 @@ export const Items = [
         ActualStartTime: '',
         ActualEndTime: '',
         Status: ['Not Started', 'Started', 'Completed', 'Failed'],
-        selectedStatus: 'Started'
+        selectedStatus: 'Completed'
       },
       {
         JobId: '',
@@ -10607,7 +10607,7 @@ export const Items = [
         ActualStartTime: '',
         ActualEndTime: '',
         Status: ['Not Started', 'Started', 'Completed', 'Failed'],
-        selectedStatus: 'Started'
+        selectedStatus: 'Failed'
       },
       {
         JobId: '',
@@ -10660,7 +10660,7 @@ export const Items = [
     applicationName: '',
     applicationDescription: '',
     totalJobsRun: '',
-    appDetails: [
+   appDetails: [
       {
         JobId: '',
         JobName: '',
@@ -10681,7 +10681,7 @@ export const Items = [
         ActualStartTime: '',
         ActualEndTime: '',
         Status: ['Not Started', 'Started', 'Completed', 'Failed'],
-        selectedStatus: 'Started'
+        selectedStatus: 'Not Started'
       },
       {
         JobId: '',
@@ -10692,7 +10692,7 @@ export const Items = [
         ActualStartTime: '',
         ActualEndTime: '',
         Status: ['Not Started', 'Started', 'Completed', 'Failed'],
-        selectedStatus: 'Started'
+        selectedStatus: 'Completed'
       },
       {
         JobId: '',
@@ -10703,7 +10703,7 @@ export const Items = [
         ActualStartTime: '',
         ActualEndTime: '',
         Status: ['Not Started', 'Started', 'Completed', 'Failed'],
-        selectedStatus: 'Started'
+        selectedStatus: 'Failed'
       },
       {
         JobId: '',
@@ -10756,7 +10756,7 @@ export const Items = [
     applicationName: '',
     applicationDescription: '',
     totalJobsRun: '',
-    appDetails: [
+   appDetails: [
       {
         JobId: '',
         JobName: '',
@@ -10777,7 +10777,7 @@ export const Items = [
         ActualStartTime: '',
         ActualEndTime: '',
         Status: ['Not Started', 'Started', 'Completed', 'Failed'],
-        selectedStatus: 'Started'
+        selectedStatus: 'Not Started'
       },
       {
         JobId: '',
@@ -10788,7 +10788,7 @@ export const Items = [
         ActualStartTime: '',
         ActualEndTime: '',
         Status: ['Not Started', 'Started', 'Completed', 'Failed'],
-        selectedStatus: 'Started'
+        selectedStatus: 'Completed'
       },
       {
         JobId: '',
@@ -10799,7 +10799,7 @@ export const Items = [
         ActualStartTime: '',
         ActualEndTime: '',
         Status: ['Not Started', 'Started', 'Completed', 'Failed'],
-        selectedStatus: 'Started'
+        selectedStatus: 'Failed'
       },
       {
         JobId: '',
@@ -10852,7 +10852,7 @@ export const Items = [
     applicationName: '',
     applicationDescription: '',
     totalJobsRun: '',
-    appDetails: [
+   appDetails: [
       {
         JobId: '',
         JobName: '',
@@ -10873,7 +10873,7 @@ export const Items = [
         ActualStartTime: '',
         ActualEndTime: '',
         Status: ['Not Started', 'Started', 'Completed', 'Failed'],
-        selectedStatus: 'Started'
+        selectedStatus: 'Not Started'
       },
       {
         JobId: '',
@@ -10884,7 +10884,7 @@ export const Items = [
         ActualStartTime: '',
         ActualEndTime: '',
         Status: ['Not Started', 'Started', 'Completed', 'Failed'],
-        selectedStatus: 'Started'
+        selectedStatus: 'Completed'
       },
       {
         JobId: '',
@@ -10895,7 +10895,7 @@ export const Items = [
         ActualStartTime: '',
         ActualEndTime: '',
         Status: ['Not Started', 'Started', 'Completed', 'Failed'],
-        selectedStatus: 'Started'
+        selectedStatus: 'Failed'
       },
       {
         JobId: '',
@@ -10948,7 +10948,7 @@ export const Items = [
     applicationName: '',
     applicationDescription: '',
     totalJobsRun: '',
-    appDetails: [
+   appDetails: [
       {
         JobId: '',
         JobName: '',
@@ -10969,7 +10969,7 @@ export const Items = [
         ActualStartTime: '',
         ActualEndTime: '',
         Status: ['Not Started', 'Started', 'Completed', 'Failed'],
-        selectedStatus: 'Started'
+        selectedStatus: 'Not Started'
       },
       {
         JobId: '',
@@ -10980,7 +10980,7 @@ export const Items = [
         ActualStartTime: '',
         ActualEndTime: '',
         Status: ['Not Started', 'Started', 'Completed', 'Failed'],
-        selectedStatus: 'Started'
+        selectedStatus: 'Completed'
       },
       {
         JobId: '',
@@ -10991,7 +10991,7 @@ export const Items = [
         ActualStartTime: '',
         ActualEndTime: '',
         Status: ['Not Started', 'Started', 'Completed', 'Failed'],
-        selectedStatus: 'Started'
+        selectedStatus: 'Failed'
       },
       {
         JobId: '',
@@ -11044,7 +11044,7 @@ export const Items = [
     applicationName: '',
     applicationDescription: '',
     totalJobsRun: '',
-    appDetails: [
+   appDetails: [
       {
         JobId: '',
         JobName: '',
@@ -11065,7 +11065,7 @@ export const Items = [
         ActualStartTime: '',
         ActualEndTime: '',
         Status: ['Not Started', 'Started', 'Completed', 'Failed'],
-        selectedStatus: 'Started'
+        selectedStatus: 'Not Started'
       },
       {
         JobId: '',
@@ -11076,7 +11076,7 @@ export const Items = [
         ActualStartTime: '',
         ActualEndTime: '',
         Status: ['Not Started', 'Started', 'Completed', 'Failed'],
-        selectedStatus: 'Started'
+        selectedStatus: 'Completed'
       },
       {
         JobId: '',
@@ -11087,7 +11087,7 @@ export const Items = [
         ActualStartTime: '',
         ActualEndTime: '',
         Status: ['Not Started', 'Started', 'Completed', 'Failed'],
-        selectedStatus: 'Started'
+        selectedStatus: 'Failed'
       },
       {
         JobId: '',
@@ -11140,7 +11140,7 @@ export const Items = [
     applicationName: '',
     applicationDescription: '',
     totalJobsRun: '',
-    appDetails: [
+   appDetails: [
       {
         JobId: '',
         JobName: '',
@@ -11161,7 +11161,7 @@ export const Items = [
         ActualStartTime: '',
         ActualEndTime: '',
         Status: ['Not Started', 'Started', 'Completed', 'Failed'],
-        selectedStatus: 'Started'
+        selectedStatus: 'Not Started'
       },
       {
         JobId: '',
@@ -11172,7 +11172,7 @@ export const Items = [
         ActualStartTime: '',
         ActualEndTime: '',
         Status: ['Not Started', 'Started', 'Completed', 'Failed'],
-        selectedStatus: 'Started'
+        selectedStatus: 'Completed'
       },
       {
         JobId: '',
@@ -11183,7 +11183,7 @@ export const Items = [
         ActualStartTime: '',
         ActualEndTime: '',
         Status: ['Not Started', 'Started', 'Completed', 'Failed'],
-        selectedStatus: 'Started'
+        selectedStatus: 'Failed'
       },
       {
         JobId: '',
@@ -11236,7 +11236,7 @@ export const Items = [
     applicationName: '',
     applicationDescription: '',
     totalJobsRun: '',
-    appDetails: [
+   appDetails: [
       {
         JobId: '',
         JobName: '',
@@ -11257,7 +11257,7 @@ export const Items = [
         ActualStartTime: '',
         ActualEndTime: '',
         Status: ['Not Started', 'Started', 'Completed', 'Failed'],
-        selectedStatus: 'Started'
+        selectedStatus: 'Not Started'
       },
       {
         JobId: '',
@@ -11268,7 +11268,7 @@ export const Items = [
         ActualStartTime: '',
         ActualEndTime: '',
         Status: ['Not Started', 'Started', 'Completed', 'Failed'],
-        selectedStatus: 'Started'
+        selectedStatus: 'Completed'
       },
       {
         JobId: '',
@@ -11279,7 +11279,7 @@ export const Items = [
         ActualStartTime: '',
         ActualEndTime: '',
         Status: ['Not Started', 'Started', 'Completed', 'Failed'],
-        selectedStatus: 'Started'
+        selectedStatus: 'Failed'
       },
       {
         JobId: '',
@@ -11332,7 +11332,7 @@ export const Items = [
     applicationName: '',
     applicationDescription: '',
     totalJobsRun: '',
-    appDetails: [
+   appDetails: [
       {
         JobId: '',
         JobName: '',
@@ -11353,7 +11353,7 @@ export const Items = [
         ActualStartTime: '',
         ActualEndTime: '',
         Status: ['Not Started', 'Started', 'Completed', 'Failed'],
-        selectedStatus: 'Started'
+        selectedStatus: 'Not Started'
       },
       {
         JobId: '',
@@ -11364,7 +11364,7 @@ export const Items = [
         ActualStartTime: '',
         ActualEndTime: '',
         Status: ['Not Started', 'Started', 'Completed', 'Failed'],
-        selectedStatus: 'Started'
+        selectedStatus: 'Completed'
       },
       {
         JobId: '',
@@ -11375,7 +11375,7 @@ export const Items = [
         ActualStartTime: '',
         ActualEndTime: '',
         Status: ['Not Started', 'Started', 'Completed', 'Failed'],
-        selectedStatus: 'Started'
+        selectedStatus: 'Failed'
       },
       {
         JobId: '',
@@ -11428,7 +11428,7 @@ export const Items = [
     applicationName: '',
     applicationDescription: '',
     totalJobsRun: '',
-    appDetails: [
+   appDetails: [
       {
         JobId: '',
         JobName: '',
@@ -11449,7 +11449,7 @@ export const Items = [
         ActualStartTime: '',
         ActualEndTime: '',
         Status: ['Not Started', 'Started', 'Completed', 'Failed'],
-        selectedStatus: 'Started'
+        selectedStatus: 'Not Started'
       },
       {
         JobId: '',
@@ -11460,7 +11460,7 @@ export const Items = [
         ActualStartTime: '',
         ActualEndTime: '',
         Status: ['Not Started', 'Started', 'Completed', 'Failed'],
-        selectedStatus: 'Started'
+        selectedStatus: 'Completed'
       },
       {
         JobId: '',
@@ -11471,7 +11471,7 @@ export const Items = [
         ActualStartTime: '',
         ActualEndTime: '',
         Status: ['Not Started', 'Started', 'Completed', 'Failed'],
-        selectedStatus: 'Started'
+        selectedStatus: 'Failed'
       },
       {
         JobId: '',
@@ -11524,7 +11524,7 @@ export const Items = [
     applicationName: '',
     applicationDescription: '',
     totalJobsRun: '',
-    appDetails: [
+   appDetails: [
       {
         JobId: '',
         JobName: '',
@@ -11545,7 +11545,7 @@ export const Items = [
         ActualStartTime: '',
         ActualEndTime: '',
         Status: ['Not Started', 'Started', 'Completed', 'Failed'],
-        selectedStatus: 'Started'
+        selectedStatus: 'Not Started'
       },
       {
         JobId: '',
@@ -11556,7 +11556,7 @@ export const Items = [
         ActualStartTime: '',
         ActualEndTime: '',
         Status: ['Not Started', 'Started', 'Completed', 'Failed'],
-        selectedStatus: 'Started'
+        selectedStatus: 'Completed'
       },
       {
         JobId: '',
@@ -11567,7 +11567,7 @@ export const Items = [
         ActualStartTime: '',
         ActualEndTime: '',
         Status: ['Not Started', 'Started', 'Completed', 'Failed'],
-        selectedStatus: 'Started'
+        selectedStatus: 'Failed'
       },
       {
         JobId: '',
