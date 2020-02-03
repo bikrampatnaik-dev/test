@@ -17,7 +17,24 @@
     "lib": [
       "es2018",
       "dom"
-    ]
+    ],
+    "paths": {
+      "@my-app/login": [
+        "projects/login/src/public-api.ts"
+      ],
+      "@my-app/core": [
+        "projects/core/src/public-api.ts"
+      ],
+      "@my-app/home": [
+        "projects/home/src/public-api.ts"
+      ],
+      "@my-app/shared-ui": [
+        "projects/shared-ui/src/public-api.ts"
+      ],
+      "@environments/*": [
+        "src/environments/*"
+      ]
+    }
   },
   "angularCompilerOptions": {
     "fullTemplateTypeCheck": true,

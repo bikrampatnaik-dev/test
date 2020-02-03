@@ -1,0 +1,27 @@
+<div class="container-fluid">
+    <div class="row m-2">
+
+        <ng-container *ngFor="let item of data?.appDetails">
+            <mat-card class="example-card col-md-6 mb-3 ">
+                <mat-card-header>
+                    <div mat-card-avatar class="example-header-image"></div>
+                    <mat-card-title>{{item.JobName}}</mat-card-title>
+                    <mat-card-subtitle>{{item.JobDescription}}</mat-card-subtitle>
+                </mat-card-header>
+
+                <mat-card-content>
+                    <p>SST: {{item.scheduleStartTime | date:'fullDate'}} </p>
+                    <p>SET: {{item.scheduleEndTime | date:'h:mm a z'}} </p>
+                    <p>AST: {{item.ActualStartTime| date:'fullDate'}} </p>
+                    <p>AET: {{item.ActualEndTime | date:'h:mm a z'}} </p>
+                </mat-card-content>
+                <mat-card-actions>
+                    <button
+                        [ngStyle]="{'background-color':item.selectedStatus === 'Not Started' ? 'gray' : item.selectedStatus === 'Started' ? 'blue' : item.selectedStatus === 'Completed' ? 'green' : 'red' }"
+                        mat-button>STATUS: {{item.selectedStatus}}</button>
+                </mat-card-actions>
+            </mat-card>
+        </ng-container>
+
+    </div>
+</div>

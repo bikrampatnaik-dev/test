@@ -1,0 +1,34 @@
+<!-- <perfect-scrollbar style="max-width: 600px; max-height: 400px;" > -->
+<mat-sidenav-container class="example-container">
+  <mat-sidenav #sidenav mode="side" [(opened)]="opened" (opened)="events.push('open!')"
+    (closed)="events.push('close!')">
+    <cdk-virtual-scroll-viewport itemSize="50" class="example-viewport" minBufferPx="1200" maxBufferPx="1200">
+      <mat-selection-list #shoes>
+        <mat-list-option *cdkVirtualFor=" let item of items; trackBy: trackByFn; templateCacheSize: 0"
+          [value]="item.applicationId">
+          <!-- <mat-icon >home</mat-icon> -->
+          <h3 matLine> Application ID: {{item.applicationId}} </h3>
+          <p matLine>
+            <span> {{item.applicationName}} </span>
+            <span class="demo-2"> -- {{item.applicationDescription}} </span>
+          </p>
+
+          <p class="demo-2"> Total Jobs Run: {{item.totalJobsRun}} </p>
+          <mat-divider></mat-divider>
+        </mat-list-option>
+      </mat-selection-list>
+    </cdk-virtual-scroll-viewport>
+  </mat-sidenav>
+
+  <mat-sidenav-content>
+
+    <lib-application-job-detais class="" [appDetails]='itemsDetailOnClick'>
+    </lib-application-job-detais>
+  </mat-sidenav-content>
+</mat-sidenav-container>
+
+
+<!-- </perfect-scrollbar> -->
+
+
+<!-- <!-- <button (click)="logout()">Logout</button> -->
